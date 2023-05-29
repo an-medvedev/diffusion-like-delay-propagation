@@ -1,0 +1,4294 @@
+<?xml version='1.0' encoding='utf-8'?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd"><key id="d3" for="node" attr.name="lat" attr.type="float"/>
+<key id="d2" for="node" attr.name="lon" attr.type="float"/>
+<key id="d1" for="node" attr.name="lat" attr.type="double"/>
+<key id="d0" for="node" attr.name="lon" attr.type="double"/>
+<graph edgedefault="undirected"><node id="RUISBROEK-SAUVEGARDE">
+  <data key="d0">4.32698082003</data>
+  <data key="d1">51.0811045829</data>
+</node>
+<node id="POPERINGE">
+  <data key="d0">2.73630643294</data>
+  <data key="d1">50.854448377</data>
+</node>
+<node id="GEDINNE">
+  <data key="d0">4.97816774903</data>
+  <data key="d1">49.9840907133</data>
+</node>
+<node id="MESSANCY">
+  <data key="d0">5.81831958146</data>
+  <data key="d1">49.5940278555</data>
+</node>
+<node id="BRUSSEL-ZUID">
+  <data key="d0">4.33605246653</data>
+  <data key="d1">50.8358008275</data>
+</node>
+<node id="BLATON">
+  <data key="d0">3.66570591998</data>
+  <data key="d1">50.5059545203</data>
+</node>
+<node id="BORNEM">
+  <data key="d0">4.24069649102</data>
+  <data key="d1">51.0989850141</data>
+</node>
+<node id="QUEVY">
+  <data key="d0">3.90964048485</data>
+  <data key="d1">50.3414879816</data>
+</node>
+<node id="BERTRIX">
+  <data key="d0">5.26815015863</data>
+  <data key="d1">49.852325742</data>
+</node>
+<node id="MONT-SAINT-GUIBERT">
+  <data key="d0">4.61270934658</data>
+  <data key="d1">50.6382983479</data>
+</node>
+<node id="OUGREE">
+  <data key="d0">5.52813366892593</data>
+  <data key="d1">50.60696657402448</data>
+</node>
+<node id="BRUGGE-SINT-PIETERS">
+  <data key="d0">3.20167874779</data>
+  <data key="d1">51.2226604296</data>
+</node>
+<node id="MARCHIENNE-ZONE">
+  <data key="d0">4.38896213689</data>
+  <data key="d1">50.397210394</data>
+</node>
+<node id="AMPSIN">
+  <data key="d0">5.28886231709</data>
+  <data key="d1">50.5391737568</data>
+</node>
+<node id="WONDELGEM">
+  <data key="d0">3.71959659292</data>
+  <data key="d1">51.0889857532</data>
+</node>
+<node id="RONET">
+  <data key="d0">4.82860168329</data>
+  <data key="d1">50.4576553193</data>
+</node>
+<node id="HARCHIES">
+  <data key="d0">3.69930207685</data>
+  <data key="d1">50.4820591692</data>
+</node>
+<node id="BRUSSEL-KAPELLEKERK">
+  <data key="d0">4.34784285033</data>
+  <data key="d1">50.8411764822</data>
+</node>
+<node id="DENDERMONDE">
+  <data key="d0">4.10132701196</data>
+  <data key="d1">51.0229519794</data>
+</node>
+<node id="BILZEN">
+  <data key="d0">5.50937241508</data>
+  <data key="d1">50.8686804248</data>
+</node>
+<node id="SINT-TRUIDEN">
+  <data key="d0">5.1765205462</data>
+  <data key="d1">50.8176887645</data>
+</node>
+<node id="SOLRE-SUR-SAMBRE">
+  <data key="d0">4.15828782988</data>
+  <data key="d1">50.3127553889</data>
+</node>
+<node id="OBOURG">
+  <data key="d0">4.00672785964</data>
+  <data key="d1">50.4698072296</data>
+</node>
+<node id="MASNUY-SAINT-PIERRE">
+  <data key="d0">3.96214354716</data>
+  <data key="d1">50.536335795</data>
+</node>
+<node id="LISSEWEGE">
+  <data key="d0">3.19442691843</data>
+  <data key="d1">51.2947010275</data>
+</node>
+<node id="EKEREN">
+  <data key="d0">4.43282528074</data>
+  <data key="d1">51.2772357393</data>
+</node>
+<node id="ARCHENNES">
+  <data key="d0">4.66236645561</data>
+  <data key="d1">50.754336747</data>
+</node>
+<node id="LOKEREN-OOST">
+  <data key="d0">3.99149484112</data>
+  <data key="d1">51.1097728004</data>
+</node>
+<node id="NAMUR">
+  <data key="d0">4.86275478237</data>
+  <data key="d1">50.4692053657</data>
+</node>
+<node id="YVES-GOMEZEE">
+  <data key="d0">4.49041976827</data>
+  <data key="d1">50.2379958488</data>
+</node>
+<node id="MARIEMBOURG">
+  <data key="d0">4.52541723419</data>
+  <data key="d1">50.0953374223</data>
+</node>
+<node id="BRUSSEL-SCHUMAN">
+  <data key="d0">4.38002358598</data>
+  <data key="d1">50.8428486165</data>
+</node>
+<node id="HAALTERT">
+  <data key="d0">4.02171661774</data>
+  <data key="d1">50.9070666399</data>
+</node>
+<node id="WICHELEN">
+  <data key="d0">3.97488390334</data>
+  <data key="d1">51.0017585026</data>
+</node>
+<node id="OOSTKAMP">
+  <data key="d0">3.25762615382</data>
+  <data key="d1">51.1542149085</data>
+</node>
+<node id="ZELE">
+  <data key="d0">4.04237941743</data>
+  <data key="d1">51.0730371583</data>
+</node>
+<node id="JAMBES-EST">
+  <data key="d0">4.88032709363</data>
+  <data key="d1">50.4548012393</data>
+</node>
+<node id="OBAIX-BUZET">
+  <data key="d0">4.36363208349</data>
+  <data key="d1">50.5357649977</data>
+</node>
+<node id="TURNHOUT">
+  <data key="d0">4.93818999532</data>
+  <data key="d1">51.3232700002</data>
+</node>
+<node id="NEERWINDEN">
+  <data key="d0">5.03633502837</data>
+  <data key="d1">50.7637608777</data>
+</node>
+<node id="SINT-GENESIUS-RODE">
+  <data key="d0">4.3619394054</data>
+  <data key="d1">50.748113873</data>
+</node>
+<node id="HOUYET">
+  <data key="d0">5.00590355843</data>
+  <data key="d1">50.190345539</data>
+</node>
+<node id="SCHENDELBEKE">
+  <data key="d0">3.89916297539</data>
+  <data key="d1">50.7977870335</data>
+</node>
+<node id="BLANKENBERGE">
+  <data key="d0">3.13356230891</data>
+  <data key="d1">51.3122829504</data>
+</node>
+<node id="YVOIR">
+  <data key="d0">4.87876088163</data>
+  <data key="d1">50.3208500011</data>
+</node>
+<node id="FARCIENNES">
+  <data key="d0">4.55266715187</data>
+  <data key="d1">50.4291442823</data>
+</node>
+<node id="LODELINSART">
+  <data key="d0">4.46303645772</data>
+  <data key="d1">50.4324189363</data>
+</node>
+<node id="SCHELDEWINDEKE">
+  <data key="d0">3.77761399569</data>
+  <data key="d1">50.9378030002</data>
+</node>
+<node id="BURST">
+  <data key="d0">3.92095649817</data>
+  <data key="d1">50.9069047783</data>
+</node>
+<node id="LICHTERVELDE">
+  <data key="d0">3.12681922109</data>
+  <data key="d1">51.0252121759</data>
+</node>
+<node id="BOMAL">
+  <data key="d0">5.51943593468</data>
+  <data key="d1">50.3768934201</data>
+</node>
+<node id="LA ROCHE(BRABANT)">
+  <data key="d0">4.53956963606</data>
+  <data key="d1">50.6102331576</data>
+</node>
+<node id="TIENEN">
+  <data key="d0">4.92563667915</data>
+  <data key="d1">50.8079314326</data>
+</node>
+<node id="HOBOKEN-POLDER">
+  <data key="d0">4.34866759858</data>
+  <data key="d1">51.1831148776</data>
+</node>
+<node id="EEKLO">
+  <data key="d0">3.57541900943</data>
+  <data key="d1">51.1806156975</data>
+</node>
+<node id="FLORIVAL">
+  <data key="d0">4.6542045529</data>
+  <data key="d1">50.7614568301</data>
+</node>
+<node id="FONTAINE-VALMONT">
+  <data key="d0">4.21151353952</data>
+  <data key="d1">50.3208642452</data>
+</node>
+<node id="OKEGEM">
+  <data key="d0">4.05412215284</data>
+  <data key="d1">50.8571245702</data>
+</node>
+<node id="KWATRECHT">
+  <data key="d0">3.8333352627</data>
+  <data key="d1">50.9915500992</data>
+</node>
+<node id="GROENENDAAL">
+  <data key="d0">4.44935705473</data>
+  <data key="d1">50.7661473855</data>
+</node>
+<node id="EDINGEN">
+  <data key="d0">4.04726047682</data>
+  <data key="d1">50.6972213438</data>
+</node>
+<node id="HOLLEKEN">
+  <data key="d0">4.35477080402</data>
+  <data key="d1">50.7670151616</data>
+</node>
+<node id="CHARLEROI-SUD">
+  <data key="d0">4.43843931757</data>
+  <data key="d1">50.4041996047</data>
+</node>
+<node id="DIKSMUIDE">
+  <data key="d0">2.86951974669</data>
+  <data key="d1">51.0328850491</data>
+</node>
+<node id="GAVERE-ASPER">
+  <data key="d0">3.63943405316</data>
+  <data key="d1">50.930582048</data>
+</node>
+<node id="WAREMME">
+  <data key="d0">5.24896305689</data>
+  <data key="d1">50.6946909073</data>
+</node>
+<node id="LINKEBEEK">
+  <data key="d0">4.33991829709</data>
+  <data key="d1">50.7733921234</data>
+</node>
+<node id="MELKOUWEN">
+  <data key="d0">4.67120807202</data>
+  <data key="d1">51.0951639011</data>
+</node>
+<node id="LOT">
+  <data key="d0">4.27257108476</data>
+  <data key="d1">50.7651283796</data>
+</node>
+<node id="DAVE-SAINT-MARTIN">
+  <data key="d0">4.88423456738</data>
+  <data key="d1">50.4290432698</data>
+</node>
+<node id="MELLE">
+  <data key="d0">3.79693903725</data>
+  <data key="d1">51.0027499197</data>
+</node>
+<node id="ERPE-MERE">
+  <data key="d0">3.96251672003</data>
+  <data key="d1">50.928593459</data>
+</node>
+<node id="FORRIERES">
+  <data key="d0">5.27655314681</data>
+  <data key="d1">50.1330907464</data>
+</node>
+<node id="GENLY">
+  <data key="d0">3.91192765645</data>
+  <data key="d1">50.3907234551</data>
+</node>
+<node id="KINKEMPOIS-RELAIS">
+  <data key="d2">5.537257</data>
+  <data key="d3">50.617077</data>
+</node>
+<node id="BEERNEM">
+  <data key="d0">3.32986703796</data>
+  <data key="d1">51.12798435</data>
+</node>
+<node id="NEUFCHATEAU">
+  <data key="d0">5.45248088574</data>
+  <data key="d1">49.8542451592</data>
+</node>
+<node id="BEGIJNENDIJK">
+  <data key="d0">4.80043991477</data>
+  <data key="d1">51.022023323</data>
+</node>
+<node id="RIVAGE">
+  <data key="d0">5.58657713684</data>
+  <data key="d1">50.4842561383</data>
+</node>
+<node id="LANDELIES">
+  <data key="d0">4.35082634176</data>
+  <data key="d1">50.3774414786</data>
+</node>
+<node id="VERVIERS-CENTRAL">
+  <data key="d0">5.85463527745</data>
+  <data key="d1">50.5878019129</data>
+</node>
+<node id="TIELEN">
+  <data key="d0">4.8933449632</data>
+  <data key="d1">51.2408614606</data>
+</node>
+<node id="OPWIJK">
+  <data key="d0">4.18754029357</data>
+  <data key="d1">50.9746182222</data>
+</node>
+<node id="LUSTIN">
+  <data key="d0">4.87748847871</data>
+  <data key="d1">50.3697415718</data>
+</node>
+<node id="LEUZE">
+  <data key="d0">3.6167841774</data>
+  <data key="d1">50.6005527652</data>
+</node>
+<node id="BAS-OHA">
+  <data key="d0">5.19110306028</data>
+  <data key="d1">50.5224817194</data>
+</node>
+<node id="DELTA">
+  <data key="d0">4.40435713242</data>
+  <data key="d1">50.8192015862</data>
+</node>
+<node id="FROYENNES">
+  <data key="d0">3.35548377638</data>
+  <data key="d1">50.6295141419</data>
+</node>
+<node id="BOUWEL">
+  <data key="d0">4.74758182017</data>
+  <data key="d1">51.1658435125</data>
+</node>
+<node id="GONTRODE">
+  <data key="d0">3.80155501925</data>
+  <data key="d1">50.9798401556</data>
+</node>
+<node id="HAVERSIN">
+  <data key="d0">5.19387955311</data>
+  <data key="d1">50.249585471</data>
+</node>
+<node id="NANINNE">
+  <data key="d0">4.93031043065</data>
+  <data key="d1">50.4193741227</data>
+</node>
+<node id="LOBBES">
+  <data key="d0">4.26094884642</data>
+  <data key="d1">50.3463196678</data>
+</node>
+<node id="WAARSCHOOT">
+  <data key="d0">3.61518699751</data>
+  <data key="d1">51.154440638</data>
+</node>
+<node id="NIVELLES">
+  <data key="d0">4.33528848164</data>
+  <data key="d1">50.6004932578</data>
+</node>
+<node id="ANSEREMME">
+  <data key="d0">4.9055656245</data>
+  <data key="d1">50.2380134919</data>
+</node>
+<node id="HOEILAART">
+  <data key="d0">4.46742876315</data>
+  <data key="d1">50.7601832471</data>
+</node>
+<node id="MERCHTEM">
+  <data key="d0">4.22368124948</data>
+  <data key="d1">50.9539129366</data>
+</node>
+<node id="HEMIKSEM">
+  <data key="d0">4.33848319983</data>
+  <data key="d1">51.136375331</data>
+</node>
+<node id="KONTICH-LINT">
+  <data key="d0">4.47689680708</data>
+  <data key="d1">51.1336836866</data>
+</node>
+<node id="FLORENVILLE">
+  <data key="d0">5.33128548305</data>
+  <data key="d1">49.707239226</data>
+</node>
+<node id="LANDSKOUTER">
+  <data key="d0">3.79131779294</data>
+  <data key="d1">50.9706327101</data>
+</node>
+<node id="COUR-SUR-HEURE">
+  <data key="d0">4.39208797802</data>
+  <data key="d1">50.3009025762</data>
+</node>
+<node id="EDE">
+  <data key="d0">3.98778075504</data>
+  <data key="d1">50.9109916265</data>
+</node>
+<node id="TESTELT">
+  <data key="d0">4.9458337868</data>
+  <data key="d1">51.0098639206</data>
+</node>
+<node id="SERSKAMP">
+  <data key="d0">3.95953898437</data>
+  <data key="d1">50.9845380074</data>
+</node>
+<node id="NIEUWKERKEN-WAAS">
+  <data key="d0">4.1844391166</data>
+  <data key="d1">51.1850821282</data>
+</node>
+<node id="NOSSEGEM">
+  <data key="d0">4.50606055702</data>
+  <data key="d1">50.8834423325</data>
+</node>
+<node id="ECAUSSINNES">
+  <data key="d0">4.15667306548</data>
+  <data key="d1">50.5623636037</data>
+</node>
+<node id="GROOT-BIJGAARDEN">
+  <data key="d0">4.27451596418</data>
+  <data key="d1">50.8683984838</data>
+</node>
+<node id="SINT-JOB">
+  <data key="d0">4.3604295461</data>
+  <data key="d1">50.7935862121</data>
+</node>
+<node id="LABUISSIERE">
+  <data key="d0">4.1865331335</data>
+  <data key="d1">50.3162744283</data>
+</node>
+<node id="WILDERT">
+  <data key="d0">4.46342281097</data>
+  <data key="d1">51.4275703104</data>
+</node>
+<node id="IZEGEM">
+  <data key="d0">3.21346951728</data>
+  <data key="d1">50.9211093465</data>
+</node>
+<node id="APPELTERRE">
+  <data key="d0">3.97235371983</data>
+  <data key="d1">50.8131409498</data>
+</node>
+<node id="ESSENE-LOMBEEK">
+  <data key="d0">4.11516660126</data>
+  <data key="d1">50.8823986907</data>
+</node>
+<node id="NIEL">
+  <data key="d0">4.34033593522</data>
+  <data key="d1">51.11082441</data>
+</node>
+<node id="SINT-DENIJS-BOEKEL">
+  <data key="d0">3.69842127975</data>
+  <data key="d1">50.8741988886</data>
+</node>
+<node id="MAUBRAY">
+  <data key="d0">3.49601687965</data>
+  <data key="d1">50.5473596398</data>
+</node>
+<node id="LEUVEN">
+  <data key="d0">4.71620851318</data>
+  <data key="d1">50.8813657098</data>
+</node>
+<node id="PROFONDSART">
+  <data key="d0">4.54949610852</data>
+  <data key="d1">50.6938459795</data>
+</node>
+<node id="MECHELEN-NEKKERSPOEL">
+  <data key="d0">4.49020675773</data>
+  <data key="d1">51.0300117053</data>
+</node>
+<node id="EVERGEM">
+  <data key="d0">3.7015331621</data>
+  <data key="d1">51.1075430955</data>
+</node>
+<node id="SERAING">
+  <data key="d0">5.51407831854</data>
+  <data key="d1">50.6088325259</data>
+</node>
+<node id="DRONGEN">
+  <data key="d0">3.65358615952</data>
+  <data key="d1">51.047503145</data>
+</node>
+<node id="CHATELET">
+  <data key="d0">4.52141182242</data>
+  <data key="d1">50.4101431557</data>
+</node>
+<node id="ALKEN">
+  <data key="d0">5.29174944513</data>
+  <data key="d1">50.8864002345</data>
+</node>
+<node id="HEVER">
+  <data key="d0">4.54077140015</data>
+  <data key="d1">50.9964005927</data>
+</node>
+<node id="ESSEN">
+  <data key="d0">4.4511169493</data>
+  <data key="d1">51.4627369953</data>
+</node>
+<node id="THUIN">
+  <data key="d0">4.28896423513</data>
+  <data key="d1">50.3425631059</data>
+</node>
+<node id="LANGDORP">
+  <data key="d0">4.86353849398</data>
+  <data key="d1">51.0024692304</data>
+</node>
+<node id="CHARLEROI-OUEST">
+  <data key="d0">4.43764113817</data>
+  <data key="d1">50.4122070515</data>
+</node>
+<node id="BERINGEN">
+  <data key="d0">5.23588999519</data>
+  <data key="d1">51.0506130003</data>
+</node>
+<node id="HEIZIJDE">
+  <data key="d0">4.15725420219</data>
+  <data key="d1">50.9888980425</data>
+</node>
+<node id="POIX-SAINT-HUBERT">
+  <data key="d0">5.29264567605</data>
+  <data key="d1">50.0194634359</data>
+</node>
+<node id="HAVINNES">
+  <data key="d0">3.49566068092</data>
+  <data key="d1">50.6188298155</data>
+</node>
+<node id="WILLEBROEK">
+  <data key="d0">4.35607225246</data>
+  <data key="d1">51.0664169126</data>
+</node>
+<node id="NOORDERKEMPEN">
+  <data key="d0">4.63402949118</data>
+  <data key="d1">51.3580599402</data>
+</node>
+<node id="WETTEREN">
+  <data key="d0">3.88191559302</data>
+  <data key="d1">51.0014992895</data>
+</node>
+<node id="GLONS">
+  <data key="d0">5.5352369346</data>
+  <data key="d1">50.7505273513</data>
+</node>
+<node id="BRUGELETTE">
+  <data key="d0">3.85291165728</data>
+  <data key="d1">50.59396014</data>
+</node>
+<node id="BELSELE">
+  <data key="d0">4.08897132601</data>
+  <data key="d1">51.1510529328</data>
+</node>
+<node id="DIESDELLE">
+  <data key="d0">4.3738989506</data>
+  <data key="d1">50.7961257547</data>
+</node>
+<node id="HEIST-OP-DEN-BERG">
+  <data key="d0">4.70935699102</data>
+  <data key="d1">51.0735548238</data>
+</node>
+<node id="NIJLEN">
+  <data key="d0">4.66447604276</data>
+  <data key="d1">51.1596016561</data>
+</node>
+<node id="CARLSBOURG">
+  <data key="d0">5.09754707849</data>
+  <data key="d1">49.9037216148</data>
+</node>
+<node id="ARLON">
+  <data key="d0">5.81060970615</data>
+  <data key="d1">49.6799712091</data>
+</node>
+<node id="GENT-SINT-PIETERS">
+  <data key="d0">3.71010131604</data>
+  <data key="d1">51.0355197156</data>
+</node>
+<node id="RHISNES">
+  <data key="d0">4.80180385427</data>
+  <data key="d1">50.4993004902</data>
+</node>
+<node id="BIERGES-WALIBI">
+  <data key="d0">4.595155145</data>
+  <data key="d1">50.7076517768</data>
+</node>
+<node id="COMBLAIN-LA-TOUR">
+  <data key="d0">5.56715186404</data>
+  <data key="d1">50.4566237883</data>
+</node>
+<node id="EZEMAAL">
+  <data key="d0">4.99421991347</data>
+  <data key="d1">50.7721294964</data>
+</node>
+<node id="TOURNAI">
+  <data key="d0">3.38849248455</data>
+  <data key="d1">50.6151418154</data>
+</node>
+<node id="ENGIS">
+  <data key="d0">5.40221886376</data>
+  <data key="d1">50.5826600593</data>
+</node>
+<node id="NAMECHE">
+  <data key="d0">4.99842958382</data>
+  <data key="d1">50.4702795686</data>
+</node>
+<node id="THIEU">
+  <data key="d0">4.09846790972</data>
+  <data key="d1">50.469671811</data>
+</node>
+<node id="VISE">
+  <data key="d0">5.6922813627</data>
+  <data key="d1">50.7403551366</data>
+</node>
+<node id="HALANZY">
+  <data key="d0">5.74222891162</data>
+  <data key="d1">49.5559717603</data>
+</node>
+<node id="TOLLEMBEEK">
+  <data key="d0">3.99288104043</data>
+  <data key="d1">50.7354270192</data>
+</node>
+<node id="WALCOURT">
+  <data key="d0">4.43577572849</data>
+  <data key="d1">50.2586233062</data>
+</node>
+<node id="NAMUR-HERBATTE">
+  <data key="d0">4.86913358344</data>
+  <data key="d1">50.4691699093</data>
+</node>
+<node id="OTTIGNIES">
+  <data key="d0">4.57037399072</data>
+  <data key="d1">50.6717735729</data>
+</node>
+<node id="HASSELT">
+  <data key="d0">5.32607132427</data>
+  <data key="d1">50.9309453893</data>
+</node>
+<node id="BAMBRUGGE">
+  <data key="d0">3.93595977595</data>
+  <data key="d1">50.9137833667</data>
+</node>
+<node id="BERLAAR">
+  <data key="d0">4.63825797611</data>
+  <data key="d1">51.1137084364</data>
+</node>
+<node id="MELREUX-HOTTON">
+  <data key="d0">5.4403525467</data>
+  <data key="d1">50.2836003439</data>
+</node>
+<node id="ESNEUX">
+  <data key="d0">5.572858885</data>
+  <data key="d1">50.5296183365</data>
+</node>
+<node id="BOORTMEERBEEK">
+  <data key="d0">4.57399271213</data>
+  <data key="d1">50.9819038308</data>
+</node>
+<node id="COURRIERE">
+  <data key="d0">4.99578983134</data>
+  <data key="d1">50.3877355553</data>
+</node>
+<node id="SINT-NIKLAAS-OOST">
+  <data key="d0">4.15951989468</data>
+  <data key="d1">51.1766233762</data>
+</node>
+<node id="NIMY">
+  <data key="d0">3.95653983007</data>
+  <data key="d1">50.471769434</data>
+</node>
+<node id="JETTE">
+  <data key="d0">4.33292341099</data>
+  <data key="d1">50.8812045751</data>
+</node>
+<node id="ZONHOVEN">
+  <data key="d0">5.34876999515</data>
+  <data key="d1">50.9897000004</data>
+</node>
+<node id="MOL">
+  <data key="d0">5.11499187356</data>
+  <data key="d1">51.1906954241</data>
+</node>
+<node id="HERNE">
+  <data key="d0">4.0143728444</data>
+  <data key="d1">50.7236980075</data>
+</node>
+<node id="LEVAL">
+  <data key="d0">4.21141421615</data>
+  <data key="d1">50.4306647646</data>
+</node>
+<node id="CHAPOIS">
+  <data key="d0">5.12411962296</data>
+  <data key="d1">50.2622683608</data>
+</node>
+<node id="HAVRE">
+  <data key="d0">4.05835644687</data>
+  <data key="d1">50.4708613023</data>
+</node>
+<node id="ZOLDER">
+  <data key="d0">5.33078408938</data>
+  <data key="d1">51.0336391149</data>
+</node>
+<node id="BELLEM">
+  <data key="d0">3.48728735956</data>
+  <data key="d1">51.0837238959</data>
+</node>
+<node id="OUDEGEM">
+  <data key="d0">4.06243712249</data>
+  <data key="d1">51.0147376266</data>
+</node>
+<node id="BOKRIJK">
+  <data key="d0">5.40857604825</data>
+  <data key="d1">50.9557954556</data>
+</node>
+<node id="BOIS D'AUSSE">
+  <data key="d0">4.98626175734</data>
+  <data key="d1">50.4013240567</data>
+</node>
+<node id="VIANE-MOERBEKE">
+  <data key="d0">3.91716328024</data>
+  <data key="d1">50.7519529385</data>
+</node>
+<node id="CAMBRON-CASTEAU">
+  <data key="d0">3.87397462971</data>
+  <data key="d1">50.5869692577</data>
+</node>
+<node id="MERY">
+  <data key="d0">5.58707312451</data>
+  <data key="d1">50.5482532999</data>
+</node>
+<node id="BEERVELDE">
+  <data key="d0">3.87998039589</data>
+  <data key="d1">51.0871724424</data>
+</node>
+<node id="VIJFHUIZEN">
+  <data key="d0">3.9825441274</data>
+  <data key="d1">50.9431818009</data>
+</node>
+<node id="LIEGE-CARRE">
+  <data key="d0">5.56158082091</data>
+  <data key="d1">50.6401611691</data>
+</node>
+<node id="ERNAGE">
+  <data key="d0">4.66714777846</data>
+  <data key="d1">50.5924251631</data>
+</node>
+<node id="ANDENNE">
+  <data key="d0">5.09596548028</data>
+  <data key="d1">50.496828764</data>
+</node>
+<node id="TAMINES">
+  <data key="d0">4.60886693737</data>
+  <data key="d1">50.4320824235</data>
+</node>
+<node id="MOENSBERG">
+  <data key="d0">4.32980831262</data>
+  <data key="d1">50.7778909613</data>
+</node>
+<node id="CHAPELLE-DIEU">
+  <data key="d0">4.69867479556</data>
+  <data key="d1">50.5578933232</data>
+</node>
+<node id="BALEN">
+  <data key="d0">5.16604965182</data>
+  <data key="d1">51.1683136116</data>
+</node>
+<node id="ZOTTEGEM">
+  <data key="d0">3.81470103614</data>
+  <data key="d1">50.8690990632</data>
+</node>
+<node id="FAUX">
+  <data key="d0">4.54937444955</data>
+  <data key="d1">50.6217865967</data>
+</node>
+<node id="TONGEREN">
+  <data key="d0">5.47398181721</data>
+  <data key="d1">50.784178121</data>
+</node>
+<node id="HOURPES">
+  <data key="d0">4.30877079928</data>
+  <data key="d1">50.3637147737</data>
+</node>
+<node id="BOONDAAL">
+  <data key="d0">4.39361397774</data>
+  <data key="d1">50.8019518882</data>
+</node>
+<node id="GOUY-LEZ-PIETON">
+  <data key="d0">4.32480741121</data>
+  <data key="d1">50.495728486</data>
+</node>
+<node id="ZAVENTEM">
+  <data key="d0">4.46990960036</data>
+  <data key="d1">50.8856325469</data>
+</node>
+<node id="MARCHIENNE-AU-PONT">
+  <data key="d0">4.39431243432</data>
+  <data key="d1">50.4122170086</data>
+</node>
+<node id="MOLLEM">
+  <data key="d0">4.21658118527</data>
+  <data key="d1">50.9328965455</data>
+</node>
+<node id="GRUPONT">
+  <data key="d0">5.28053445242</data>
+  <data key="d1">50.0905044604</data>
+</node>
+<node id="RUISBROEK">
+  <data key="d0">4.29552115674</data>
+  <data key="d1">50.7917723569</data>
+</node>
+<node id="LIER">
+  <data key="d0">4.56177577286</data>
+  <data key="d1">51.1360436851</data>
+</node>
+<node id="AYWAILLE">
+  <data key="d0">5.67250360269</data>
+  <data key="d1">50.4728150244</data>
+</node>
+<node id="MONS">
+  <data key="d0">3.94238057565</data>
+  <data key="d1">50.4544367689</data>
+</node>
+<node id="ANTWERPEN-ZUID">
+  <data key="d0">4.39177900713</data>
+  <data key="d1">51.1972142828</data>
+</node>
+<node id="PONT-DE-SERAING">
+  <data key="d0">5.51134915666</data>
+  <data key="d1">50.6199166978</data>
+</node>
+<node id="MUNKZWALM">
+  <data key="d0">3.7315142052</data>
+  <data key="d1">50.8756566647</data>
+</node>
+<node id="SINT-AGATHA-BERCHEM">
+  <data key="d0">4.2907473424</data>
+  <data key="d1">50.8730336798</data>
+</node>
+<node id="NESSONVAUX">
+  <data key="d0">5.74174610499</data>
+  <data key="d1">50.5719859235</data>
+</node>
+<node id="ANTWERPEN-LUCHTBAL">
+  <data key="d0">4.42488024255</data>
+  <data key="d1">51.2435613171</data>
+</node>
+<node id="HERMALLE-SOUS-HUY">
+  <data key="d0">5.37949799412</data>
+  <data key="d1">50.5719088382</data>
+</node>
+<node id="BOUSSU">
+  <data key="d0">3.79597174104</data>
+  <data key="d1">50.4360399133</data>
+</node>
+<node id="BRUSSEL-CENTRAAL">
+  <data key="d0">4.35675831787</data>
+  <data key="d1">50.8453110184</data>
+</node>
+<node id="TUBIZE">
+  <data key="d0">4.20581147649</data>
+  <data key="d1">50.6916922041</data>
+</node>
+<node id="MARLOIE">
+  <data key="d0">5.31430554944</data>
+  <data key="d1">50.2032156937</data>
+</node>
+<node id="OVERPELT">
+  <data key="d0">5.42312688643</data>
+  <data key="d1">51.2155496216</data>
+</node>
+<node id="SOIGNIES">
+  <data key="d0">4.06935224523</data>
+  <data key="d1">50.5731231808</data>
+</node>
+<node id="TERNAT">
+  <data key="d0">4.16548031265</data>
+  <data key="d1">50.8746458862</data>
+</node>
+<node id="FEXHE-LE-HAUT-CLOCHER">
+  <data key="d0">5.3972665182</data>
+  <data key="d1">50.6642994327</data>
+</node>
+<node id="SINAAI">
+  <data key="d0">4.0688563893</data>
+  <data key="d1">51.1435006997</data>
+</node>
+<node id="BEERSEL">
+  <data key="d0">4.30234341045</data>
+  <data key="d1">50.7663681025</data>
+</node>
+<node id="AARSELE">
+  <data key="d0">3.41837146665</data>
+  <data key="d1">50.9844958764</data>
+</node>
+<node id="COUILLET">
+  <data key="d0">4.46933253691</data>
+  <data key="d1">50.3926448807</data>
+</node>
+<node id="MORTSEL-LIERSESTEENWEG">
+  <data key="d0">4.46915125523</data>
+  <data key="d1">51.1695485761</data>
+</node>
+<node id="LANDEN">
+  <data key="d0">5.07962743494</data>
+  <data key="d1">50.7478945451</data>
+</node>
+<node id="BEUZET">
+  <data key="d0">4.75019407605</data>
+  <data key="d1">50.532974981</data>
+</node>
+<node id="TILFF">
+  <data key="d0">5.58265616848</data>
+  <data key="d1">50.5702570336</data>
+</node>
+<node id="PEPINSTER-CITE">
+  <data key="d0">5.80459571935</data>
+  <data key="d1">50.563375391</data>
+</node>
+<node id="LE CAMPINAIRE">
+  <data key="d0">4.54281508351</data>
+  <data key="d1">50.4237939669</data>
+</node>
+<node id="VOROUX">
+  <data key="d0">5.43105388956</data>
+  <data key="d1">50.6606950174</data>
+</node>
+<node id="SINT-JORIS-WEERT">
+  <data key="d0">4.6518607873</data>
+  <data key="d1">50.8012967174</data>
+</node>
+<node id="SCHOONAARDE">
+  <data key="d0">4.01126290829</data>
+  <data key="d1">51.0031385698</data>
+</node>
+<node id="KIJKUIT">
+  <data key="d0">4.46729432353</data>
+  <data key="d1">51.3792364145</data>
+</node>
+<node id="LA LOUVIERE-GARE INDUSTRIELLE">
+  <data key="d0">4.19367291825</data>
+  <data key="d1">50.4859788299</data>
+</node>
+<node id="FORCHIES">
+  <data key="d0">4.32347282842</data>
+  <data key="d1">50.433128756</data>
+</node>
+<node id="LIBRAMONT">
+  <data key="d0">5.37899850724</data>
+  <data key="d1">49.9202465797</data>
+</node>
+<node id="WERVIK">
+  <data key="d0">3.0469768385</data>
+  <data key="d1">50.7818553296</data>
+</node>
+<node id="SY">
+  <data key="d0">5.52361836028</data>
+  <data key="d1">50.4033083581</data>
+</node>
+<node id="MECHELEN">
+  <data key="d0">4.48357982828</data>
+  <data key="d1">51.0176186648</data>
+</node>
+<node id="STOCKEM">
+  <data key="d0">5.76797703301</data>
+  <data key="d1">49.6909319009</data>
+</node>
+<node id="FLEMALLE-HAUTE">
+  <data key="d0">5.45631595476</data>
+  <data key="d1">50.594638933</data>
+</node>
+<node id="GALMAARDEN">
+  <data key="d0">3.96495648671</data>
+  <data key="d1">50.7440249732</data>
+</node>
+<node id="HERENT">
+  <data key="d0">4.67214105587</data>
+  <data key="d1">50.9035892912</data>
+</node>
+<node id="OOSTENDE">
+  <data key="d0">2.9266258634</data>
+  <data key="d1">51.2279424818</data>
+</node>
+<node id="GOUVY">
+  <data key="d0">5.95399590412</data>
+  <data key="d1">50.1894522235</data>
+</node>
+<node id="EKE-NAZARETH">
+  <data key="d0">3.62788937606</data>
+  <data key="d1">50.9615649143</data>
+</node>
+<node id="KALMTHOUT">
+  <data key="d0">4.46670091137</data>
+  <data key="d1">51.3897394154</data>
+</node>
+<node id="SCLAIGNEAUX">
+  <data key="d0">5.02646071407</data>
+  <data key="d1">50.4921208818</data>
+</node>
+<node id="LUTTRE">
+  <data key="d0">4.38425045007</data>
+  <data key="d1">50.5060120592</data>
+</node>
+<node id="LOMMEL">
+  <data key="d0">5.31053729933</data>
+  <data key="d1">51.2115271227</data>
+</node>
+<node id="ANTOING">
+  <data key="d0">3.45135153442</data>
+  <data key="d1">50.569648066</data>
+</node>
+<node id="WELKENRAEDT">
+  <data key="d0">5.97426722042</data>
+  <data key="d1">50.6593706461</data>
+</node>
+<node id="MALDEREN">
+  <data key="d0">4.23139979224</data>
+  <data key="d1">51.0142835684</data>
+</node>
+<node id="BRUSSEL-NOORD">
+  <data key="d0">4.36125231884</data>
+  <data key="d1">50.859599597</data>
+</node>
+<node id="BEVERLO">
+  <data key="d0">5.23455099519</data>
+  <data key="d1">51.0886430003</data>
+</node>
+<node id="CEROUX-MOUSTY">
+  <data key="d0">4.56905556074</data>
+  <data key="d1">50.6593132882</data>
+</node>
+<node id="PIETON">
+  <data key="d0">4.2861293507</data>
+  <data key="d1">50.4351168197</data>
+</node>
+<node id="KOKSIJDE">
+  <data key="d0">2.65414028569</data>
+  <data key="d1">51.0787083434</data>
+</node>
+<node id="WIJGMAAL">
+  <data key="d0">4.70069841402</data>
+  <data key="d1">50.9233034456</data>
+</node>
+<node id="BLERET">
+  <data key="d0">5.28606106451</data>
+  <data key="d1">50.6853133004</data>
+</node>
+<node id="BEVEREN(WAAS)">
+  <data key="d0">4.26077789536</data>
+  <data key="d1">51.2084738755</data>
+</node>
+<node id="SINT-MARTENS-BODEGEM">
+  <data key="d0">4.20493932051</data>
+  <data key="d1">50.8671660548</data>
+</node>
+<node id="HONY">
+  <data key="d0">5.5739261092</data>
+  <data key="d1">50.540171766</data>
+</node>
+<node id="VERVIERS-PALAIS">
+  <data key="d0">5.86528469355</data>
+  <data key="d1">50.5909292769</data>
+</node>
+<node id="KORTRIJK">
+  <data key="d0">3.26777452888</data>
+  <data key="d1">50.8244133811</data>
+</node>
+<node id="WOLFSTEE">
+  <data key="d0">4.78973276974</data>
+  <data key="d1">51.1689368945</data>
+</node>
+<node id="MAFFLE">
+  <data key="d0">3.8004945814</data>
+  <data key="d1">50.614048603</data>
+</node>
+<node id="GRAIDE">
+  <data key="d0">5.04361689435</data>
+  <data key="d1">49.9337205226</data>
+</node>
+<node id="OUD-HEVERLEE">
+  <data key="d0">4.65359584735</data>
+  <data key="d1">50.8357006069</data>
+</node>
+<node id="HERSTAL">
+  <data key="d0">5.62236279978</data>
+  <data key="d1">50.6603888947</data>
+</node>
+<node id="ASSESSE">
+  <data key="d0">5.02144890611</data>
+  <data key="d1">50.3686754968</data>
+</node>
+<node id="LIEDEKERKE">
+  <data key="d0">4.09528658143</data>
+  <data key="d1">50.8825476193</data>
+</node>
+<node id="BEIGNEE">
+  <data key="d0">4.40663311471</data>
+  <data key="d1">50.3332292856</data>
+</node>
+<node id="SAINT-GHISLAIN">
+  <data key="d0">3.82001577005</data>
+  <data key="d1">50.442734763</data>
+</node>
+<node id="WESPELAAR-TILDONK">
+  <data key="d0">4.63779232136</data>
+  <data key="d1">50.9585548564</data>
+</node>
+<node id="JAVA">
+  <data key="d0">5.16069872428</data>
+  <data key="d1">50.5138771084</data>
+</node>
+<node id="GEEL">
+  <data key="d0">4.98963149439</data>
+  <data key="d1">51.1690525485</data>
+</node>
+<node id="MARCHE-EN-FAMENNE">
+  <data key="d0">5.34617844764</data>
+  <data key="d1">50.2225353915</data>
+</node>
+<node id="BASSE-WAVRE">
+  <data key="d0">4.62122038416</data>
+  <data key="d1">50.7241436313</data>
+</node>
+<node id="CHENEE">
+  <data key="d0">5.61485678132</data>
+  <data key="d1">50.6083532718</data>
+</node>
+<node id="BORDET">
+  <data key="d0">4.41001440468</data>
+  <data key="d1">50.8777742561</data>
+</node>
+<node id="SCHAARBEEK-JOSAPHAT">
+  <data key="d0">4.39500689654</data>
+  <data key="d1">50.8603629544</data>
+</node>
+<node id="FRAIPONT">
+  <data key="d0">5.72343194205</data>
+  <data key="d1">50.5651234539</data>
+</node>
+<node id="HARELBEKE">
+  <data key="d0">3.31465551116</data>
+  <data key="d1">50.856290944</data>
+</node>
+<node id="MARCHE-LES-DAMES">
+  <data key="d0">4.96457613556</data>
+  <data key="d1">50.4807188604</data>
+</node>
+<node id="PRY">
+  <data key="d0">4.43033339882</data>
+  <data key="d1">50.2687584615</data>
+</node>
+<node id="TILLY">
+  <data key="d0">4.55164129527</data>
+  <data key="d1">50.5566590241</data>
+</node>
+<node id="MAZY">
+  <data key="d0">4.67593627752</data>
+  <data key="d1">50.5134007633</data>
+</node>
+<node id="ZINGEM">
+  <data key="d0">3.64647393992</data>
+  <data key="d1">50.9091196225</data>
+</node>
+<node id="VELTEM">
+  <data key="d0">4.6335174453</data>
+  <data key="d1">50.9005500158</data>
+</node>
+<node id="COO">
+  <data key="d0">5.88094114591</data>
+  <data key="d1">50.391313345</data>
+</node>
+<node id="BLANMONT">
+  <data key="d0">4.6366869222</data>
+  <data key="d1">50.6195230203</data>
+</node>
+<node id="CHASTRE">
+  <data key="d0">4.65013041184</data>
+  <data key="d1">50.6075759695</data>
+</node>
+<node id="GENT-DAMPOORT">
+  <data key="d0">3.74051525053</data>
+  <data key="d1">51.0567289857</data>
+</node>
+<node id="ZEEBRUGGE-DORP">
+  <data key="d0">3.19684012991</data>
+  <data key="d1">51.3265921607</data>
+</node>
+<node id="ASSE">
+  <data key="d0">4.20823039533</data>
+  <data key="d1">50.9067025704</data>
+</node>
+<node id="HERSEAUX">
+  <data key="d0">3.24481180974</data>
+  <data key="d1">50.7142872632</data>
+</node>
+<node id="RONSE">
+  <data key="d0">3.60261108325</data>
+  <data key="d1">50.742366543</data>
+</node>
+<node id="DUINBERGEN">
+  <data key="d0">3.26293506353</data>
+  <data key="d1">51.3382719102</data>
+</node>
+<node id="ERBISOEUL">
+  <data key="d0">3.88844771128</data>
+  <data key="d1">50.5078636239</data>
+</node>
+<node id="WAVRE">
+  <data key="d0">4.60512767007</data>
+  <data key="d1">50.7161379625</data>
+</node>
+<node id="AUVELAIS">
+  <data key="d0">4.6307003889</data>
+  <data key="d1">50.4491704097</data>
+</node>
+<node id="STOUMONT">
+  <data key="d0">5.76928955999</data>
+  <data key="d1">50.417165741</data>
+</node>
+<node id="GODINNE">
+  <data key="d0">4.86997411816</data>
+  <data key="d1">50.3488506233</data>
+</node>
+<node id="DIEST">
+  <data key="d0">5.05006647269</data>
+  <data key="d1">50.993420022</data>
+</node>
+<node id="TORHOUT">
+  <data key="d0">3.10575090731</data>
+  <data key="d1">51.0647122494</data>
+</node>
+<node id="IDEGEM">
+  <data key="d0">3.92142544099</data>
+  <data key="d1">50.8016857898</data>
+</node>
+<node id="HABAY">
+  <data key="d0">5.63225594696</data>
+  <data key="d1">49.7182543697</data>
+</node>
+<node id="MORLANWELZ">
+  <data key="d0">4.24760684221</data>
+  <data key="d1">50.4581947576</data>
+</node>
+<node id="JEMEPPE-SUR-SAMBRE-MARCHANDISE">
+  <data key="d0">4.65778589551</data>
+  <data key="d1">50.4479774515</data>
+</node>
+<node id="THURN EN TAXIS">
+  <data key="d0">4.34086374556</data>
+  <data key="d1">50.8715565586</data>
+</node>
+<node id="SAINT-DENIS-BOVESSE">
+  <data key="d0">4.7677919953</data>
+  <data key="d1">50.5212970005</data>
+</node>
+<node id="HAM-SUR-SAMBRE">
+  <data key="d0">4.67291287004</data>
+  <data key="d1">50.4528127809</data>
+</node>
+<node id="HERGENRATH">
+  <data key="d0">6.04303249425</data>
+  <data key="d1">50.7092112566</data>
+</node>
+<node id="AUBANGE">
+  <data key="d0">5.80005351986</data>
+  <data key="d1">49.5633161782</data>
+</node>
+<node id="ETTERBEEK">
+  <data key="d0">4.39049871965</data>
+  <data key="d1">50.8213075585</data>
+</node>
+<node id="LOKEREN">
+  <data key="d0">3.98538323535</data>
+  <data key="d1">51.1070280711</data>
+</node>
+<node id="WELLE">
+  <data key="d0">4.05086651811</data>
+  <data key="d1">50.9030499196</data>
+</node>
+<node id="TIELT">
+  <data key="d0">3.32862711044</data>
+  <data key="d1">50.9900368891</data>
+</node>
+<node id="MOORTSELE">
+  <data key="d0">3.78098222327</data>
+  <data key="d1">50.952950902</data>
+</node>
+<node id="DUFFEL">
+  <data key="d0">4.49276729554</data>
+  <data key="d1">51.0916843278</data>
+</node>
+<node id="JEMAPPES">
+  <data key="d0">3.88516978551</data>
+  <data key="d1">50.4525632357</data>
+</node>
+<node id="RIXENSART">
+  <data key="d0">4.53316952325</data>
+  <data key="d1">50.7115468676</data>
+</node>
+<node id="BERZEE">
+  <data key="d0">4.40599828417</data>
+  <data key="d1">50.2856230722</data>
+</node>
+<node id="BOOM">
+  <data key="d0">4.36044152612</data>
+  <data key="d1">51.0909284574</data>
+</node>
+<node id="HENNUYERES">
+  <data key="d0">4.17613214188</data>
+  <data key="d1">50.6509144486</data>
+</node>
+<node id="JURBISE">
+  <data key="d0">3.91061322242</data>
+  <data key="d1">50.5305545282</data>
+</node>
+<node id="GERAARDSBERGEN">
+  <data key="d0">3.87241748939</data>
+  <data key="d1">50.7709492471</data>
+</node>
+<node id="LEBBEKE">
+  <data key="d0">4.13488115738</data>
+  <data key="d1">51.0047535601</data>
+</node>
+<node id="ANTWERPEN-NOORDERDOKKEN">
+  <data key="d0">4.42794672118</data>
+  <data key="d1">51.2616903557</data>
+</node>
+<node id="LIEGE-GUILLEMINS">
+  <data key="d0">5.56537965188</data>
+  <data key="d1">50.6255582389</data>
+</node>
+<node id="LIERDE">
+  <data key="d0">3.82571438797</data>
+  <data key="d1">50.8165898214</data>
+</node>
+<node id="BOOISCHOT">
+  <data key="d0">4.77279636659</data>
+  <data key="d1">51.0374994633</data>
+</node>
+<node id="GHLIN">
+  <data key="d0">3.90639438954</data>
+  <data key="d1">50.4875235085</data>
+</node>
+<node id="GEMBLOUX">
+  <data key="d0">4.69063039341</data>
+  <data key="d1">50.5712451435</data>
+</node>
+<node id="LILLOIS">
+  <data key="d0">4.36339470288</data>
+  <data key="d1">50.6436735311</data>
+</node>
+<node id="NEERPELT">
+  <data key="d0">5.43731556603</data>
+  <data key="d1">51.2223754782</data>
+</node>
+<node id="CARNIERES">
+  <data key="d0">4.26440662548</data>
+  <data key="d1">50.4479038086</data>
+</node>
+<node id="LA LOUVIERE-CENTRE">
+  <data key="d0">4.1800686304</data>
+  <data key="d1">50.4777153029</data>
+</node>
+<node id="AYE">
+  <data key="d0">5.30063876737</data>
+  <data key="d1">50.2248529211</data>
+</node>
+<node id="WEVELGEM">
+  <data key="d0">3.182483665</data>
+  <data key="d1">50.8110667034</data>
+</node>
+<node id="DIEPENBEEK">
+  <data key="d0">5.41632754014</data>
+  <data key="d1">50.9117654545</data>
+</node>
+<node id="SLEIDINGE">
+  <data key="d0">3.66754536471</data>
+  <data key="d1">51.1264339365</data>
+</node>
+<node id="EICHEM">
+  <data key="d0">3.99360508624</data>
+  <data key="d1">50.8239079492</data>
+</node>
+<node id="BUDA">
+  <data key="d0">4.41758767828</data>
+  <data key="d1">50.9080894126</data>
+</node>
+<node id="ROUX">
+  <data key="d0">4.39400059774</data>
+  <data key="d1">50.44308266</data>
+</node>
+<node id="ACREN">
+  <data key="d0">3.84701818939</data>
+  <data key="d1">50.732865904</data>
+</node>
+<node id="DEINZE">
+  <data key="d0">3.53500280128</data>
+  <data key="d1">50.978132859</data>
+</node>
+<node id="DIEGEM">
+  <data key="d0">4.44195258103</data>
+  <data key="d1">50.8906200831</data>
+</node>
+<node id="BRESSOUX">
+  <data key="d0">5.61253575625</data>
+  <data key="d1">50.6443831721</data>
+</node>
+<node id="HEVERLEE">
+  <data key="d0">4.69446096349</data>
+  <data key="d1">50.8622766063</data>
+</node>
+<node id="NINOVE">
+  <data key="d0">4.02626327174</data>
+  <data key="d1">50.8394593881</data>
+</node>
+<node id="LIERS">
+  <data key="d0">5.5669111046</data>
+  <data key="d1">50.698179639</data>
+</node>
+<node id="JAMBES">
+  <data key="d0">4.87546821778</data>
+  <data key="d1">50.4539791186</data>
+</node>
+<node id="ANTWERPEN-BERCHEM">
+  <data key="d0">4.43297947374</data>
+  <data key="d1">51.1988702948</data>
+</node>
+<node id="SINT-NIKLAAS">
+  <data key="d0">4.14328219654</data>
+  <data key="d1">51.1715993515</data>
+</node>
+<node id="ZELLIK">
+  <data key="d0">4.27529362525</data>
+  <data key="d1">50.8895433195</data>
+</node>
+<node id="MOMALLE">
+  <data key="d0">5.36759988675</data>
+  <data key="d1">50.6699148452</data>
+</node>
+<node id="ZEDELGEM">
+  <data key="d0">3.16348049525</data>
+  <data key="d1">51.12638146</data>
+</node>
+<node id="PHILIPPEVILLE">
+  <data key="d0">4.53605197113</data>
+  <data key="d1">50.1916127111</data>
+</node>
+<node id="MEISER">
+  <data key="d0">4.39427420887</data>
+  <data key="d1">50.8547570077</data>
+</node>
+<node id="PONT-A-CELLES">
+  <data key="d0">4.35409518478</data>
+  <data key="d1">50.5138331529</data>
+</node>
+<node id="IDDERGEM">
+  <data key="d0">4.06855814375</data>
+  <data key="d1">50.8768399475</data>
+</node>
+<node id="CINEY">
+  <data key="d0">5.09069657571</data>
+  <data key="d1">50.2920149745</data>
+</node>
+<node id="KAPELLEN">
+  <data key="d0">4.43280530176</data>
+  <data key="d1">51.3135927095</data>
+</node>
+<node id="UKKEL-KALEVOET">
+  <data key="d0">4.33174596555</data>
+  <data key="d1">50.7922144942</data>
+</node>
+<node id="ZOLDER-KRUISSPOREN">
+  <data key="d0">5.31781412095</data>
+  <data key="d1">51.0348746453</data>
+</node>
+<node id="WATERLOO">
+  <data key="d0">4.38345353204</data>
+  <data key="d1">50.7155339719</data>
+</node>
+<node id="LIGNY">
+  <data key="d0">4.56605659451</data>
+  <data key="d1">50.5113536591</data>
+</node>
+<node id="HERZELE">
+  <data key="d0">3.87951990861</data>
+  <data key="d1">50.8969246997</data>
+</node>
+<node id="BAASRODE-ZUID">
+  <data key="d0">4.15401461348</data>
+  <data key="d1">51.0193877229</data>
+</node>
+<node id="WAREGEM">
+  <data key="d0">3.42559831801</data>
+  <data key="d1">50.8924283486</data>
+</node>
+<node id="MORTSEL">
+  <data key="d0">4.44881150807</data>
+  <data key="d1">51.1828907084</data>
+</node>
+<node id="SART-BERNARD">
+  <data key="d0">4.94856326785</data>
+  <data key="d1">50.4067417249</data>
+</node>
+<node id="SCLESSIN">
+  <data key="d0">5.55669507891</data>
+  <data key="d1">50.6103651743</data>
+</node>
+<node id="MOESKROEN">
+  <data key="d0">3.22538251475</data>
+  <data key="d1">50.7383332111</data>
+</node>
+<node id="KESSEL">
+  <data key="d0">4.61845799542</data>
+  <data key="d1">51.1510560002</data>
+</node>
+<node id="MENEN">
+  <data key="d0">3.11388719953</data>
+  <data key="d1">50.7994600175</data>
+</node>
+<node id="LEMAN">
+  <data key="d0">5.46568080432</data>
+  <data key="d1">50.5989492243</data>
+</node>
+<node id="HOVE">
+  <data key="d0">4.46521425435</data>
+  <data key="d1">51.1540619165</data>
+</node>
+<node id="KORTENBERG">
+  <data key="d0">4.54331292703</data>
+  <data key="d1">50.8930041491</data>
+</node>
+<node id="BIERSET-AWANS">
+  <data key="d0">5.46078656285</data>
+  <data key="d1">50.6584378964</data>
+</node>
+<node id="SILLY">
+  <data key="d0">3.93724587612</data>
+  <data key="d1">50.6632053967</data>
+</node>
+<node id="HUIZINGEN">
+  <data key="d0">4.26560911685</data>
+  <data key="d1">50.7516413242</data>
+</node>
+<node id="ZWIJNDRECHT">
+  <data key="d0">4.32467190389</data>
+  <data key="d1">51.2136402429</data>
+</node>
+<node id="LIEGE-SAINT-LAMBERT">
+  <data key="d0">5.57261263721</data>
+  <data key="d1">50.6469493507</data>
+</node>
+<node id="TILLEUR">
+  <data key="d0">5.52959613042</data>
+  <data key="d1">50.6193257891</data>
+</node>
+<node id="HERENTALS">
+  <data key="d0">4.82855494581</data>
+  <data key="d1">51.1810729651</data>
+</node>
+<node id="WATERMAAL">
+  <data key="d0">4.39985333965</data>
+  <data key="d1">50.8097105893</data>
+</node>
+<node id="QUIEVRAIN">
+  <data key="d0">3.68585949905</data>
+  <data key="d1">50.4102330062</data>
+</node>
+<node id="TROOZ">
+  <data key="d0">5.6884487731</data>
+  <data key="d1">50.5732874436</data>
+</node>
+<node id="JEMEPPE-SUR-MEUSE">
+  <data key="d0">5.49779970796</data>
+  <data key="d1">50.6184162725</data>
+</node>
+<node id="THEUX">
+  <data key="d0">5.81510703358</data>
+  <data key="d1">50.5362858142</data>
+</node>
+<node id="LENS">
+  <data key="d0">3.90328575583</data>
+  <data key="d1">50.5591287911</data>
+</node>
+<node id="BALEN-WERKPLAATSEN">
+  <data key="d0">5.2459499952</data>
+  <data key="d1">51.2049470003</data>
+</node>
+<node id="PEPINSTER">
+  <data key="d0">5.81026853749</data>
+  <data key="d1">50.5685150903</data>
+</node>
+<node id="AARSCHOT">
+  <data key="d0">4.82369834809</data>
+  <data key="d1">50.984496354</data>
+</node>
+<node id="COURCELLES-MOTTE">
+  <data key="d0">4.40041208665</data>
+  <data key="d1">50.4620298596</data>
+</node>
+<node id="EUPEN">
+  <data key="d0">6.03714839807</data>
+  <data key="d1">50.6353053339</data>
+</node>
+<node id="FLEMALLE-GRANDE">
+  <data key="d0">5.48108901394</data>
+  <data key="d1">50.6052596337</data>
+</node>
+<node id="HAACHT">
+  <data key="d0">4.61332976968</data>
+  <data key="d1">50.9662627056</data>
+</node>
+<node id="CHATEAU-DE-SEILLES">
+  <data key="d0">5.08175263182</data>
+  <data key="d1">50.4972127236</data>
+</node>
+<node id="SINT-KATELIJNE-WAVER">
+  <data key="d0">4.49580734833</data>
+  <data key="d1">51.0709276997</data>
+</node>
+<node id="PALISEUL">
+  <data key="d0">5.11920613373</data>
+  <data key="d1">49.8949583057</data>
+</node>
+<node id="MARIA-AALTER">
+  <data key="d0">3.38670058687</data>
+  <data key="d1">51.1075747336</data>
+</node>
+<node id="AALTER">
+  <data key="d0">3.44785538314</data>
+  <data key="d1">51.09225779</data>
+</node>
+<node id="REBAIX">
+  <data key="d0">3.79353407559</data>
+  <data key="d1">50.661048859</data>
+</node>
+<node id="EPPEGEM">
+  <data key="d0">4.4574994673</data>
+  <data key="d1">50.9584072121</data>
+</node>
+<node id="POULSEUR">
+  <data key="d0">5.57818809226</data>
+  <data key="d1">50.5089593301</data>
+</node>
+<node id="BRACQUEGNIES">
+  <data key="d0">4.12635051384</data>
+  <data key="d1">50.4743621219</data>
+</node>
+<node id="GENDRON-CELLES">
+  <data key="d0">4.96465087693</data>
+  <data key="d1">50.210804055</data>
+</node>
+<node id="MOUSTIER">
+  <data key="d0">4.69381369164</data>
+  <data key="d1">50.4527282694</data>
+</node>
+<node id="MUIZEN">
+  <data key="d0">4.5141090188</data>
+  <data key="d1">51.0082369997</data>
+</node>
+<node id="BRUSSEL-LUXEMBURG">
+  <data key="d0">4.37397245033</data>
+  <data key="d1">50.8388378168</data>
+</node>
+<node id="LEMBEEK">
+  <data key="d0">4.22156777029</data>
+  <data key="d1">50.7151121396</data>
+</node>
+<node id="UKKEL-STALLE">
+  <data key="d0">4.3237781721</data>
+  <data key="d1">50.8024854877</data>
+</node>
+<node id="HAREN-ZUID">
+  <data key="d0">4.41507699137</data>
+  <data key="d1">50.8896168907</data>
+</node>
+<node id="DOLHAIN-GILEPPE">
+  <data key="d0">5.93868646571</data>
+  <data key="d1">50.6269251489</data>
+</node>
+<node id="VILVOORDE">
+  <data key="d0">4.43281375044</data>
+  <data key="d1">50.9241435968</data>
+</node>
+<node id="MARBEHAN">
+  <data key="d0">5.53975533358</data>
+  <data key="d1">49.7274201479</data>
+</node>
+<node id="EREMBODEGEM">
+  <data key="d0">4.0554780445</data>
+  <data key="d1">50.9192924811</data>
+</node>
+<node id="BOECHOUT">
+  <data key="d0">4.49404699546</data>
+  <data key="d1">51.1638280002</data>
+</node>
+<node id="LEIGNON">
+  <data key="d0">5.1077291081</data>
+  <data key="d1">50.2677027327</data>
+</node>
+<node id="ANGLEUR">
+  <data key="d0">5.60094899502</data>
+  <data key="d1">50.6125300005</data>
+</node>
+<node id="MEVERGNIES-ATTRE">
+  <data key="d0">3.83294843726</data>
+  <data key="d1">50.6002730131</data>
+</node>
+<node id="GENVAL">
+  <data key="d0">4.51384193113</data>
+  <data key="d1">50.7264675604</data>
+</node>
+<node id="WEERDE">
+  <data key="d0">4.4710873355</data>
+  <data key="d1">50.9772432084</data>
+</node>
+<node id="MANAGE">
+  <data key="d0">4.2347524771</data>
+  <data key="d1">50.5061716462</data>
+</node>
+<node id="BRUSSEL-WEST">
+  <data key="d0">4.32281726725</data>
+  <data key="d1">50.8520560691</data>
+</node>
+<node id="HAM-SUR-HEURE">
+  <data key="d0">4.40504735485</data>
+  <data key="d1">50.3205415738</data>
+</node>
+<node id="KOMEN">
+  <data key="d0">2.99934482915</data>
+  <data key="d1">50.7719635537</data>
+</node>
+<node id="DILBEEK">
+  <data key="d0">4.24357407148</data>
+  <data key="d1">50.8663897899</data>
+</node>
+<node id="BALEGEM-ZUID">
+  <data key="d0">3.80577639118</data>
+  <data key="d1">50.9008046254</data>
+</node>
+<node id="CHAUDFONTAINE">
+  <data key="d0">5.643913</data>
+  <data key="d1">50.58696</data>
+</node>
+<node id="ZANDBERGEN">
+  <data key="d0">3.95698967666</data>
+  <data key="d1">50.8069196772</data>
+</node>
+<node id="AISEAU">
+  <data key="d0">4.58437648572</data>
+  <data key="d1">50.4295405524</data>
+</node>
+<node id="ERPS-KWERPS">
+  <data key="d0">4.58493060094</data>
+  <data key="d1">50.8965450567</data>
+</node>
+<node id="KORTEMARK">
+  <data key="d0">3.04394476252</data>
+  <data key="d1">51.0251342677</data>
+</node>
+<node id="BARVAUX">
+  <data key="d0">5.50227004384</data>
+  <data key="d1">50.3495041286</data>
+</node>
+<node id="VEURNE">
+  <data key="d0">2.66975048761</data>
+  <data key="d1">51.0739166168</data>
+</node>
+<node id="MORTSEL-OUDE GOD">
+  <data key="d0">4.45538866095</data>
+  <data key="d1">51.171808098</data>
+</node>
+<node id="LEOPOLDSBURG">
+  <data key="d0">5.25787877316</data>
+  <data key="d1">51.117330659</data>
+</node>
+<node id="ANS">
+  <data key="d0">5.50969665404</data>
+  <data key="d1">50.6611903323</data>
+</node>
+<node id="CALLENELLE">
+  <data key="d0">3.52627807088</data>
+  <data key="d1">50.5273115852</data>
+</node>
+<node id="ATH">
+  <data key="d0">3.77639368586</data>
+  <data key="d1">50.6270301819</data>
+</node>
+<node id="FRAMERIES">
+  <data key="d0">3.90638585702</data>
+  <data key="d1">50.4055268902</data>
+</node>
+<node id="BOCKSTAEL">
+  <data key="d0">4.34851400106</data>
+  <data key="d1">50.8794398303</data>
+</node>
+<node id="ANTWERPEN-CENTRAAL">
+  <data key="d0">4.42108363015</data>
+  <data key="d1">51.2168620322</data>
+</node>
+<node id="JEMEPPE-SUR-SAMBRE">
+  <data key="d0">4.66262676246</data>
+  <data key="d1">50.4509494215</data>
+</node>
+<node id="BRUSSEL-CONGRES">
+  <data key="d0">4.36221976027</data>
+  <data key="d1">50.8517801817</data>
+</node>
+<node id="VORST-ZUID">
+  <data key="d0">4.3103475156</data>
+  <data key="d1">50.8100734068</data>
+</node>
+<node id="INGELMUNSTER">
+  <data key="d0">3.25470831956</data>
+  <data key="d1">50.9148434156</data>
+</node>
+<node id="JEMEPPE-FROIDMONT">
+  <data key="d0">4.66932583853</data>
+  <data key="d1">50.4596390272</data>
+</node>
+<node id="HOFSTADE">
+  <data key="d0">4.49845170525</data>
+  <data key="d1">50.9885396478</data>
+</node>
+<node id="VILLE-POMMEROEUL">
+  <data key="d0">3.72443297857</data>
+  <data key="d1">50.4645268358</data>
+</node>
+<node id="VIELSALM">
+  <data key="d0">5.90933232554</data>
+  <data key="d1">50.2788150453</data>
+</node>
+<node id="ERQUELINNES-VILLAGE">
+  <data key="d0">4.1301410617</data>
+  <data key="d1">50.3097078358</data>
+</node>
+<node id="VILLERS-LA-VILLE">
+  <data key="d0">4.53350004147</data>
+  <data key="d1">50.578090649</data>
+</node>
+<node id="VORST-OOST">
+  <data key="d0">4.32098115368</data>
+  <data key="d1">50.8102003361</data>
+</node>
+<node id="HANSBEKE">
+  <data key="d0">3.53744687427</data>
+  <data key="d1">51.0727081837</data>
+</node>
+<node id="BRAINE-L'ALLEUD">
+  <data key="d0">4.37582344522</data>
+  <data key="d1">50.6847591412</data>
+</node>
+<node id="MARCHE-LEZ-ECAUSSINNES">
+  <data key="d0">4.1771024208</data>
+  <data key="d1">50.5462048766</data>
+</node>
+<node id="ROESELARE">
+  <data key="d0">3.13023603853</data>
+  <data key="d1">50.9493412298</data>
+</node>
+<node id="SCHELLE">
+  <data key="d0">4.340225753</data>
+  <data key="d1">51.1254202836</data>
+</node>
+<node id="VICHTE">
+  <data key="d0">3.39284717229</data>
+  <data key="d1">50.833503059</data>
+</node>
+<node id="LIMAL">
+  <data key="d0">4.5758486963</data>
+  <data key="d1">50.6919797506</data>
+</node>
+<node id="GASTUCHE">
+  <data key="d0">4.64993538733</data>
+  <data key="d1">50.736438574</data>
+</node>
+<node id="DE HOEK">
+  <data key="d0">4.37034236908</data>
+  <data key="d1">50.739241157</data>
+</node>
+<node id="LA HULPE">
+  <data key="d0">4.49744835292</data>
+  <data key="d1">50.7381104431</data>
+</node>
+<node id="PECROT">
+  <data key="d0">4.65160133691</data>
+  <data key="d1">50.7792668437</data>
+</node>
+<node id="MOUTERIJ">
+  <data key="d0">4.37859913955</data>
+  <data key="d1">50.8310122984</data>
+</node>
+<node id="GENK">
+  <data key="d0">5.49808669335</data>
+  <data key="d1">50.9670710202</data>
+</node>
+<node id="SINT-MARIABURG">
+  <data key="d0">4.43456517992</data>
+  <data key="d1">51.292675495</data>
+</node>
+<node id="BEAURAING">
+  <data key="d0">4.95702336274</data>
+  <data key="d1">50.1138355247</data>
+</node>
+<node id="HEIST">
+  <data key="d0">3.24048963887</data>
+  <data key="d1">51.3341774977</data>
+</node>
+<node id="BRAINE-LE-COMTE">
+  <data key="d0">4.13816242686</data>
+  <data key="d1">50.6048452296</data>
+</node>
+<node id="GENTBRUGGE">
+  <data key="d0">3.75608302189</data>
+  <data key="d1">51.0387803323</data>
+</node>
+<node id="SINT-GILLIS(DENDERMONDE)">
+  <data key="d0">4.11720857071</data>
+  <data key="d1">51.022081856</data>
+</node>
+<node id="FLAWINNE">
+  <data key="d0">4.80630047181</data>
+  <data key="d1">50.4562499563</data>
+</node>
+<node id="HEIDE">
+  <data key="d0">4.46086870497</data>
+  <data key="d1">51.3653837364</data>
+</node>
+<node id="MERODE">
+  <data key="d0">4.39959054932</data>
+  <data key="d1">50.8399305526</data>
+</node>
+<node id="DINANT">
+  <data key="d0">4.90819979012</data>
+  <data key="d1">50.2607306704</data>
+</node>
+<node id="OUDENAARDE">
+  <data key="d0">3.60067125177</data>
+  <data key="d1">50.8506023455</data>
+</node>
+<node id="HALLE">
+  <data key="d0">4.23982395465</data>
+  <data key="d1">50.7330602553</data>
+</node>
+<node id="OLNE">
+  <data key="d0">5.70313353205</data>
+  <data key="d1">50.5663930826</data>
+</node>
+<node id="BOSVOORDE">
+  <data key="d0">4.40826952849</data>
+  <data key="d1">50.7945578853</data>
+</node>
+<node id="LA LOUVIERE-SUD">
+  <data key="d0">4.19010515855</data>
+  <data key="d1">50.4649936554</data>
+</node>
+<node id="SPA-GERONSTERE">
+  <data key="d0">5.86622758259</data>
+  <data key="d1">50.489275845</data>
+</node>
+<node id="QUAREGNON">
+  <data key="d0">3.85559911229</data>
+  <data key="d1">50.4497282669</data>
+</node>
+<node id="THULIN">
+  <data key="d0">3.74594690154</data>
+  <data key="d1">50.4234286424</data>
+</node>
+<node id="LOUVAIN-LA-NEUVE">
+  <data key="d0">4.61628494068</data>
+  <data key="d1">50.6699423643</data>
+</node>
+<node id="PERUWELZ">
+  <data key="d0">3.59206286828</data>
+  <data key="d1">50.513613465</data>
+</node>
+<node id="AALST">
+  <data key="d0">4.03868350731</data>
+  <data key="d1">50.9431232507</data>
+</node>
+<node id="FLOREFFE">
+  <data key="d0">4.76299976416</data>
+  <data key="d1">50.4434811012</data>
+</node>
+<node id="BRUGGE">
+  <data key="d0">3.21685287842</data>
+  <data key="d1">51.197273068</data>
+</node>
+<node id="FLOREE">
+  <data key="d0">5.05642726138</data>
+  <data key="d1">50.3575419825</data>
+</node>
+<node id="LAUWE">
+  <data key="d0">3.20232590515</data>
+  <data key="d1">50.7877911279</data>
+</node>
+<node id="LONZEE">
+  <data key="d0">4.72015142874</data>
+  <data key="d1">50.5519770649</data>
+</node>
+<node id="DE PINTE">
+  <data key="d0">3.65538390187</data>
+  <data key="d1">50.9989525234</data>
+</node>
+<node id="SCHELLEBELLE">
+  <data key="d0">3.92143307808</data>
+  <data key="d1">51.003126163</data>
+</node>
+<node id="WEZEMAAL">
+  <data key="d0">4.74801229767</data>
+  <data key="d1">50.9563608973</data>
+</node>
+<node id="TERHAGEN">
+  <data key="d0">3.89748238558</data>
+  <data key="d1">50.9018241248</data>
+</node>
+<node id="TROIS-PONTS">
+  <data key="d0">5.87334070563</data>
+  <data key="d1">50.3692844061</data>
+</node>
+<node id="GODARVILLE">
+  <data key="d0">4.29025278312</data>
+  <data key="d1">50.4929517711</data>
+</node>
+<node id="KAPELLE-OP-DEN-BOS">
+  <data key="d0">4.35881137305</data>
+  <data key="d1">51.010827122</data>
+</node>
+<node id="ARCADEN">
+  <data key="d0">4.39841318214</data>
+  <data key="d1">50.8096682131</data>
+</node>
+<node id="BUGGENHOUT">
+  <data key="d0">4.20076013693</data>
+  <data key="d1">51.0163118368</data>
+</node>
+<node id="HOURAING">
+  <data key="d0">3.83523143791</data>
+  <data key="d1">50.7028815</data>
+</node>
+<node id="ZICHEM">
+  <data key="d0">4.9873213994</data>
+  <data key="d1">51.006658164</data>
+</node>
+<node id="FLEURUS">
+  <data key="d0">4.54483146656</data>
+  <data key="d1">50.4831411025</data>
+</node>
+<node id="DEINZE-WIJKSPOREN">
+  <data key="d0">3.54064565928</data>
+  <data key="d1">50.9790461785</data>
+</node>
+<node id="ZEEBRUGGE-VORMING">
+  <data key="d0">3.18913471622</data>
+  <data key="d1">51.3155169775</data>
+</node>
+<node id="MORTSEL-DEURNESTEENWEG">
+  <data key="d0">4.44718764497</data>
+  <data key="d1">51.1823171544</data>
+</node>
+<node id="ATHUS">
+  <data key="d0">5.82922458971</data>
+  <data key="d1">49.563854761</data>
+</node>
+<node id="HAUTE-FLONE">
+  <data key="d0">5.33129458083</data>
+  <data key="d1">50.554248596</data>
+</node>
+<node id="TEMSE">
+  <data key="d0">4.22114854966</data>
+  <data key="d1">51.1259862259</data>
+</node>
+<node id="ERQUELINNES">
+  <data key="d0">4.11361737598</data>
+  <data key="d1">50.3041112917</data>
+</node>
+<node id="FRANIERE">
+  <data key="d0">4.73360995862</data>
+  <data key="d1">50.4396093363</data>
+</node>
+<node id="EINE">
+  <data key="d0">3.62382254419</data>
+  <data key="d1">50.8710008936</data>
+</node>
+<node id="JUSLENVILLE">
+  <data key="d0">5.81024141332</data>
+  <data key="d1">50.544523351</data>
+</node>
+<node id="ROCHEFORT-JEMELLE">
+  <data key="d0">5.26679636273</data>
+  <data key="d1">50.160415796</data>
+</node>
+<node id="HAMONT">
+  <data key="d0">5.5419099951</data>
+  <data key="d1">51.2461010003</data>
+</node>
+<node id="VERTRIJK">
+  <data key="d0">4.83659437099</data>
+  <data key="d1">50.8359465278</data>
+</node>
+<node id="KINKEMPOIS-FORMATION">
+  <data key="d0">5.57966599503</data>
+  <data key="d1">50.6088000005</data>
+</node>
+<node id="SPA">
+  <data key="d0">5.85578350196</data>
+  <data key="d1">50.4902444985</data>
+</node>
+<node id="MELSELE">
+  <data key="d0">4.28850622327</data>
+  <data key="d1">51.2108265613</data>
+</node>
+<node id="LONDERZEEL">
+  <data key="d0">4.296896134</data>
+  <data key="d1">51.0094136262</data>
+</node>
+<node id="HATRIVAL">
+  <data key="d0">5.32044581473</data>
+  <data key="d1">49.9899235485</data>
+</node>
+<node id="HEUSDEN">
+  <data key="d0">5.28068355176</data>
+  <data key="d1">51.0383137641</data>
+</node>
+<node id="AMAY">
+  <data key="d0">5.32060948807</data>
+  <data key="d1">50.5459219146</data>
+</node>
+<node id="JAMIOULX">
+  <data key="d0">4.41123509881</data>
+  <data key="d1">50.3531047532</data>
+</node>
+<node id="HILLEGEM">
+  <data key="d0">3.85747689328</data>
+  <data key="d1">50.8912948429</data>
+</node>
+<node id="LESSINES">
+  <data key="d0">3.83686117936</data>
+  <data key="d1">50.7129077473</data>
+</node>
+<node id="MILMORT">
+  <data key="d0">5.59955770096</data>
+  <data key="d1">50.6934229048</data>
+</node>
+<node id="BRUSSELS AIRPORT - ZAVENTEM">
+  <data key="d0">4.48395784739</data>
+  <data key="d1">50.8964242357</data>
+</node>
+<node id="SIMONIS">
+  <data key="d0">4.33413858317</data>
+  <data key="d1">50.8659965771</data>
+</node>
+<node id="LANDEGEM">
+  <data key="d0">3.5770457624</data>
+  <data key="d1">51.0642159758</data>
+</node>
+<node id="KNOKKE">
+  <data key="d0">3.28522767539</data>
+  <data key="d1">51.3399248201</data>
+</node>
+<node id="SCHAARBEEK">
+  <data key="d0">4.37843152424</data>
+  <data key="d1">50.8786926685</data>
+</node>
+<node id="DE PANNE">
+  <data key="d0">2.60240109043</data>
+  <data key="d1">51.0772661297</data>
+</node>
+<node id="NEUFVILLES">
+  <data key="d0">4.01076331258</data>
+  <data key="d1">50.5435231957</data>
+</node>
+<node id="COURT-SAINT-ETIENNE">
+  <data key="d0">4.56554152688</data>
+  <data key="d1">50.645568863</data>
+</node>
+<node id="STATTE">
+  <data key="d0">5.21961650081</data>
+  <data key="d1">50.5281781663</data>
+</node>
+<node id="KIEWIT">
+  <data key="d0">5.3504075163</data>
+  <data key="d1">50.9546648487</data>
+</node>
+<node id="MERELBEKE">
+  <data key="d0">3.76483502111</data>
+  <data key="d1">51.0200575923</data>
+</node>
+<node id="AALST-KERREBROEK">
+  <data key="d0">4.02477270254</data>
+  <data key="d1">50.9482162447</data>
+</node>
+<node id="BALEGEM-DORP">
+  <data key="d0">3.79105653407</data>
+  <data key="d1">50.9200430391</data>
+</node>
+<node id="EVERE">
+  <data key="d0">4.40135506249</data>
+  <data key="d1">50.8682065671</data>
+</node>
+<node id="SCHULEN">
+  <data key="d0">5.1854206257</data>
+  <data key="d1">50.9641801334</data>
+</node>
+<node id="ANZEGEM">
+  <data key="d0">3.4954700922</data>
+  <data key="d1">50.8262160326</data>
+</node>
+<node id="HAMBOS">
+  <data key="d0">4.66325395798</data>
+  <data key="d1">50.9443955728</data>
+</node>
+<node id="LEDE">
+  <data key="d0">3.98507683522</data>
+  <data key="d1">50.97097094</data>
+</node>
+<node id="BINCHE">
+  <data key="d0">4.17275955733</data>
+  <data key="d1">50.4085638533</data>
+</node>
+<node id="VIVILLE">
+  <data key="d0">5.78547466263</data>
+  <data key="d1">49.6882839391</data>
+</node>
+<node id="PUURS">
+  <data key="d0">4.28351300768</data>
+  <data key="d1">51.0771235989</data>
+</node>
+<node id="BUIZINGEN">
+  <data key="d0">4.25865755076</data>
+  <data key="d1">50.7515482619</data>
+</node>
+<node id="FRANCHIMONT">
+  <data key="d0">5.82258490007</data>
+  <data key="d1">50.5252113581</data>
+</node>
+<node id="OLEN">
+  <data key="d0">4.90249925205</data>
+  <data key="d1">51.1740297678</data>
+</node>
+<node id="REMICOURT">
+  <data key="d0">5.32142201468</data>
+  <data key="d1">50.6786434498</data>
+</node>
+<node id="HAREN">
+  <data key="d0">4.42003083914</data>
+  <data key="d1">50.8888708957</data>
+</node>
+<node id="VIRTON">
+  <data key="d0">5.51832953715</data>
+  <data key="d1">49.5607584613</data>
+</node>
+<node id="FAMILLEUREUX">
+  <data key="d0">4.21165452976</data>
+  <data key="d1">50.519411501</data>
+</node>
+<node id="PAPIGNIES">
+  <data key="d0">3.82429942006</data>
+  <data key="d1">50.687655086</data>
+</node>
+<node id="HAMOIR">
+  <data key="d0">5.53384003358</data>
+  <data key="d1">50.4283291859</data>
+</node>
+<node id="DENDERLEEUW">
+  <data key="d0">4.07143156626</data>
+  <data key="d1">50.8916211692</data>
+</node>
+<node id="HAININ">
+  <data key="d0">3.76679474162</data>
+  <data key="d1">50.4280271062</data>
+</node>
+<node id="IEPER">
+  <data key="d0">2.87688629334</data>
+  <data key="d1">50.8474776894</data>
+</node>
+<node id="NATOYE">
+  <data key="d0">5.06128100439</data>
+  <data key="d1">50.3433637062</data>
+</node>
+<node id="FLEMALLE-ANNEXE">
+  <data key="d0">5.4735364641</data>
+  <data key="d1">50.5974452435</data>
+</node>
+<node id="BISSEGEM">
+  <data key="d0">3.22408841202</data>
+  <data key="d1">50.8257932752</data>
+</node>
+<node id="HUY">
+  <data key="d0">5.23403717341</data>
+  <data key="d1">50.52737642</data>
+</node>
+<node id="2">
+  <data key="d0">6.047488974339879</data>
+  <data key="d1">50.702525360166725</data>
+</node>
+<node id="5">
+  <data key="d0">5.822139903676523</data>
+  <data key="d1">49.553635768591576</data>
+</node>
+<node id="7">
+  <data key="d0">4.490836096833055</data>
+  <data key="d1">51.03649755248615</data>
+</node>
+<node id="8">
+  <data key="d0">4.434744621332198</data>
+  <data key="d1">51.20666767062453</data>
+</node>
+<node id="9">
+  <data key="d0">4.445919267227304</data>
+  <data key="d1">51.21714836667413</data>
+</node>
+<node id="10">
+  <data key="d0">4.460842981615869</data>
+  <data key="d1">50.91861359013689</data>
+</node>
+<node id="11">
+  <data key="d0">4.475833229137693</data>
+  <data key="d1">51.0056896045917</data>
+</node>
+<node id="12">
+  <data key="d0">5.438476714155173</data>
+  <data key="d1">49.664451338112265</data>
+</node>
+<node id="13">
+  <data key="d0">4.488599079969206</data>
+  <data key="d1">51.129022973070306</data>
+</node>
+<node id="15">
+  <data key="d0">4.488021792237233</data>
+  <data key="d1">50.8876661356717</data>
+</node>
+<node id="16">
+  <data key="d0">5.5913189950230535</data>
+  <data key="d1">50.61449200053153</data>
+</node>
+<node id="21">
+  <data key="d0">4.799814590097997</data>
+  <data key="d1">50.500597495612794</data>
+</node>
+<node id="30">
+  <data key="d0">4.836302977957669</data>
+  <data key="d1">51.18683073277608</data>
+</node>
+<node id="31">
+  <data key="d0">3.224491418540608</data>
+  <data key="d1">51.18466473895318</data>
+</node>
+<node id="32">
+  <data key="d0">4.320397636871605</data>
+  <data key="d1">50.82555183623249</data>
+</node>
+<node id="36">
+  <data key="d0">4.130258427548297</data>
+  <data key="d1">50.58322684124896</data>
+</node>
+<node id="39">
+  <data key="d0">5.7077032984021745</data>
+  <data key="d1">50.74717163217068</data>
+</node>
+<node id="40">
+  <data key="d0">4.3752115526830195</data>
+  <data key="d1">50.87162145190218</data>
+</node>
+<node id="44">
+  <data key="d0">4.173327027672405</data>
+  <data key="d1">50.64795092178445</data>
+</node>
+<node id="45">
+  <data key="d0">4.407723840460959</data>
+  <data key="d1">50.40298804701995</data>
+</node>
+<node id="46">
+  <data key="d0">4.4035914803537874</data>
+  <data key="d1">50.4086283644502</data>
+</node>
+<node id="47">
+  <data key="d0">5.4988169161456995</data>
+  <data key="d1">49.79303271617271</data>
+</node>
+<node id="48">
+  <data key="d0">4.210703196219681</data>
+  <data key="d1">50.46139347285159</data>
+</node>
+<node id="49">
+  <data key="d0">4.416174176954856</data>
+  <data key="d1">50.407451078524566</data>
+</node>
+<node id="54">
+  <data key="d0">3.230832077955921</data>
+  <data key="d1">51.28476922853072</data>
+</node>
+<node id="55">
+  <data key="d0">3.237374559843146</data>
+  <data key="d1">51.28894479292248</data>
+</node>
+<node id="56">
+  <data key="d0">3.840231010695092</data>
+  <data key="d1">50.44698109601145</data>
+</node>
+<node id="58">
+  <data key="d0">4.364155779457274</data>
+  <data key="d1">50.86611369865681</data>
+</node>
+<node id="60">
+  <data key="d0">3.737757578999591</data>
+  <data key="d1">51.07337775372822</data>
+</node>
+<node id="61">
+  <data key="d0">3.717840590156214</data>
+  <data key="d1">51.083017755289106</data>
+</node>
+<node id="64">
+  <data key="d0">5.480117458272849</data>
+  <data key="d1">50.95422365542801</data>
+</node>
+<node id="69">
+  <data key="d0">3.753779865138405</data>
+  <data key="d1">51.02584898402534</data>
+</node>
+<node id="70">
+  <data key="d0">3.754409648649982</data>
+  <data key="d1">51.031069783375024</data>
+</node>
+<node id="71">
+  <data key="d0">2.643355237860133</data>
+  <data key="d1">51.079908136504585</data>
+</node>
+<node id="72">
+  <data key="d0">4.967202413195669</data>
+  <data key="d1">50.48053191783466</data>
+</node>
+<node id="78">
+  <data key="d0">4.434554875680162</data>
+  <data key="d1">50.891849509995595</data>
+</node>
+<node id="79">
+  <data key="d0">4.670369875157937</data>
+  <data key="d1">50.45531746574213</data>
+</node>
+<node id="82">
+  <data key="d0">5.842544281523552</data>
+  <data key="d1">49.6428602205834</data>
+</node>
+<node id="83">
+  <data key="d0">4.219957243963901</data>
+  <data key="d1">50.5103882926242</data>
+</node>
+<node id="84">
+  <data key="d0">5.47092799564378</data>
+  <data key="d1">50.97730800260472</data>
+</node>
+<node id="85">
+  <data key="d0">5.475543238521935</data>
+  <data key="d1">50.965026490646444</data>
+</node>
+<node id="86">
+  <data key="d0">5.469314015207704</data>
+  <data key="d1">50.59681896117182</data>
+</node>
+<node id="87">
+  <data key="d0">3.6063256298684943</data>
+  <data key="d1">50.85515810602283</data>
+</node>
+<node id="91">
+  <data key="d0">5.485150494979162</data>
+  <data key="d1">50.597764602714946</data>
+</node>
+<node id="92">
+  <data key="d0">4.015352406973179</data>
+  <data key="d1">50.54605623632779</data>
+</node>
+<node id="93">
+  <data key="d0">4.106341123872133</data>
+  <data key="d1">50.5842033834247</data>
+</node>
+<node id="97">
+  <data key="d0">4.2136300302362955</data>
+  <data key="d1">50.69473134885851</data>
+</node>
+<node id="99">
+  <data key="d0">4.805158243967331</data>
+  <data key="d1">51.17232160315278</data>
+</node>
+<node id="100">
+  <data key="d0">5.583351457841705</data>
+  <data key="d1">50.61319837688184</data>
+</node>
+<node id="101">
+  <data key="d0">4.676398912234389</data>
+  <data key="d1">50.45225156125355</data>
+</node>
+<node id="102">
+  <data key="d0">4.430448329219592</data>
+  <data key="d1">51.201490308768804</data>
+</node>
+<node id="103">
+  <data key="d0">4.421672765867751</data>
+  <data key="d1">50.89066550967335</data>
+</node>
+<node id="104">
+  <data key="d0">4.38145948424039</data>
+  <data key="d1">50.39230872528595</data>
+</node>
+<node id="105">
+  <data key="d0">4.42905873756381</data>
+  <data key="d1">51.264577794401994</data>
+</node>
+<node id="107">
+  <data key="d0">4.967196337493435</data>
+  <data key="d1">50.065016087694715</data>
+</node>
+<node id="108">
+  <data key="d0">4.978550757653011</data>
+  <data key="d1">49.98522277216995</data>
+</node>
+<node id="109">
+  <data key="d0">5.563380723141426</data>
+  <data key="d1">50.62818625993633</data>
+</node>
+<node id="110">
+  <data key="d0">3.187651100162582</data>
+  <data key="d1">51.321144965013424</data>
+</node>
+<node id="111">
+  <data key="d0">4.322782532525419</data>
+  <data key="d1">50.83200269912553</data>
+</node>
+<node id="112">
+  <data key="d0">4.585840932775218</data>
+  <data key="d1">51.14357656926054</data>
+</node>
+<node id="113">
+  <data key="d0">4.592471478735226</data>
+  <data key="d1">51.14445537840956</data>
+</node>
+<node id="116">
+  <data key="d0">3.207289190874124</data>
+  <data key="d1">51.24270631803818</data>
+</node>
+<node id="117">
+  <data key="d0">3.202606844094512</data>
+  <data key="d1">51.26275481706937</data>
+</node>
+<node id="118">
+  <data key="d0">3.247974508481141</data>
+  <data key="d1">50.829400526830504</data>
+</node>
+<node id="119">
+  <data key="d0">4.62172730325786</data>
+  <data key="d1">50.96428736546649</data>
+</node>
+<node id="120">
+  <data key="d0">4.709143682792028</data>
+  <data key="d1">50.906715302081</data>
+</node>
+<node id="122">
+  <data key="d0">4.425486339293086</data>
+  <data key="d1">51.25368660864733</data>
+</node>
+<node id="123">
+  <data key="d0">4.310920047187282</data>
+  <data key="d1">51.2125711580354</data>
+</node>
+<node id="124">
+  <data key="d0">4.290969472495379</data>
+  <data key="d1">51.211017864027895</data>
+</node>
+<node id="125">
+  <data key="d0">5.466976327449049</data>
+  <data key="d1">50.599521487718974</data>
+</node>
+<node id="128">
+  <data key="d0">4.253649206810017</data>
+  <data key="d1">50.74665827597178</data>
+</node>
+<node id="129">
+  <data key="d0">4.526329948629343</data>
+  <data key="d1">50.414901720407734</data>
+</node>
+<node id="130">
+  <data key="d0">4.341126060367138</data>
+  <data key="d1">50.8387656837924</data>
+</node>
+<node id="137">
+  <data key="d0">3.835454972066688</data>
+  <data key="d1">50.70442489541428</data>
+</node>
+<node id="139">
+  <data key="d0">4.391533890314449</data>
+  <data key="d1">50.414862784452836</data>
+</node>
+<node id="141">
+  <data key="d0">3.918882768772143</data>
+  <data key="d1">50.65548014254579</data>
+</node>
+<node id="142">
+  <data key="d0">4.308464131508878</data>
+  <data key="d1">50.818144898593836</data>
+</node>
+<node id="143">
+  <data key="d0">4.154976048713442</data>
+  <data key="d1">50.71051371175533</data>
+</node>
+<node id="144">
+  <data key="d0">5.509354730327396</data>
+  <data key="d1">50.87164775107842</data>
+</node>
+<node id="145">
+  <data key="d0">5.507399146935646</data>
+  <data key="d1">50.878439600624326</data>
+</node>
+<node id="146">
+  <data key="d0">5.611963891848135</data>
+  <data key="d1">50.75649531011355</data>
+</node>
+<node id="147">
+  <data key="d0">5.691399220154221</data>
+  <data key="d1">50.74455144758256</data>
+</node>
+<node id="149">
+  <data key="d0">4.395211995497647</data>
+  <data key="d1">51.1956240001883</data>
+</node>
+<node id="150">
+  <data key="d0">4.331371408095082</data>
+  <data key="d1">51.214184372013854</data>
+</node>
+<node id="151">
+  <data key="d0">5.231866995194578</data>
+  <data key="d1">51.07681400032675</data>
+</node>
+<node id="154">
+  <data key="d0">4.353151787709794</data>
+  <data key="d1">50.878006592441906</data>
+</node>
+<node id="155">
+  <data key="d0">4.344234634697309</data>
+  <data key="d1">50.8808012614198</data>
+</node>
+<node id="156">
+  <data key="d0">4.016410270922398</data>
+  <data key="d1">50.47002163309977</data>
+</node>
+<node id="157">
+  <data key="d0">4.832729356636422</data>
+  <data key="d1">51.001008539140514</data>
+</node>
+<node id="158">
+  <data key="d0">4.842520829808175</data>
+  <data key="d1">50.99929975356063</data>
+</node>
+<node id="159">
+  <data key="d0">3.746497750541609</data>
+  <data key="d1">51.029677580923966</data>
+</node>
+<node id="161">
+  <data key="d0">4.309649652746758</data>
+  <data key="d1">50.43326263182218</data>
+</node>
+<node id="162">
+  <data key="d0">5.060225996779689</data>
+  <data key="d1">50.991613373312696</data>
+</node>
+<node id="163">
+  <data key="d0">2.94501704624339</data>
+  <data key="d1">51.216515070044004</data>
+</node>
+<node id="169">
+  <data key="d0">5.694480854427404</data>
+  <data key="d1">50.744269969754484</data>
+</node>
+<node id="170">
+  <data key="d0">5.718068729252525</data>
+  <data key="d1">50.7420596948236</data>
+</node>
+<node id="171">
+  <data key="d0">4.363714333872744</data>
+  <data key="d1">50.87442053477899</data>
+</node>
+<node id="172">
+  <data key="d0">4.357469749138837</data>
+  <data key="d1">50.55522358152753</data>
+</node>
+<node id="174">
+  <data key="d0">3.902017170630642</data>
+  <data key="d1">50.64892111542153</data>
+</node>
+<node id="175">
+  <data key="d0">3.859282997873156</data>
+  <data key="d1">50.6312156141933</data>
+</node>
+<node id="176">
+  <data key="d0">4.338532139993985</data>
+  <data key="d1">50.77426174703043</data>
+</node>
+<node id="177">
+  <data key="d0">4.43361647620823</data>
+  <data key="d1">51.19650855862944</data>
+</node>
+<node id="178">
+  <data key="d0">4.712462427839007</data>
+  <data key="d1">50.89562246881528</data>
+</node>
+<node id="181">
+  <data key="d0">4.4241770888409295</data>
+  <data key="d1">50.89582649034365</data>
+</node>
+<node id="182">
+  <data key="d0">4.324692591326773</data>
+  <data key="d1">50.82466239273616</data>
+</node>
+<node id="183">
+  <data key="d0">3.939965189999059</data>
+  <data key="d1">50.53649958262683</data>
+</node>
+<node id="184">
+  <data key="d0">3.9182523297522653</data>
+  <data key="d1">50.535894927141655</data>
+</node>
+<node id="185">
+  <data key="d0">4.494132764762625</data>
+  <data key="d1">51.05423501652859</data>
+</node>
+<node id="186">
+  <data key="d0">4.724307228305942</data>
+  <data key="d1">50.8648488085327</data>
+</node>
+<node id="187">
+  <data key="d0">5.581049995026924</data>
+  <data key="d1">50.61686200052938</data>
+</node>
+<node id="188">
+  <data key="d0">4.430169469411627</data>
+  <data key="d1">51.20148443646367</data>
+</node>
+<node id="194">
+  <data key="d0">4.435266995483821</data>
+  <data key="d1">51.196011000192755</data>
+</node>
+<node id="196">
+  <data key="d0">5.468397683577083</data>
+  <data key="d1">50.99303002853599</data>
+</node>
+<node id="198">
+  <data key="d0">4.187783098312692</data>
+  <data key="d1">50.537762903856915</data>
+</node>
+<node id="199">
+  <data key="d0">4.220301515611983</data>
+  <data key="d1">50.514548822006645</data>
+</node>
+<node id="200">
+  <data key="d0">3.252966063380951</data>
+  <data key="d1">50.82110018033403</data>
+</node>
+<node id="201">
+  <data key="d0">3.252549646045003</data>
+  <data key="d1">50.8259526620841</data>
+</node>
+<node id="202">
+  <data key="d0">5.927770497570684</data>
+  <data key="d1">50.72861244990661</data>
+</node>
+<node id="203">
+  <data key="d0">5.950569027278238</data>
+  <data key="d1">50.72145747546221</data>
+</node>
+<node id="204">
+  <data key="d0">4.276733531628768</data>
+  <data key="d1">51.2099085282698</data>
+</node>
+<node id="207">
+  <data key="d0">5.483693433343688</data>
+  <data key="d1">50.94764630641671</data>
+</node>
+<node id="208">
+  <data key="d0">4.437897200063805</data>
+  <data key="d1">51.19273318948953</data>
+</node>
+<node id="209">
+  <data key="d0">5.820012126395854</data>
+  <data key="d1">49.556266935776236</data>
+</node>
+<node id="211">
+  <data key="d0">4.257260015732782</data>
+  <data key="d1">50.34680408337836</data>
+</node>
+<node id="217">
+  <data key="d0">3.913725839671644</data>
+  <data key="d1">50.53922172586189</data>
+</node>
+<node id="221">
+  <data key="d0">5.597237957017656</data>
+  <data key="d1">50.63985803405241</data>
+</node>
+<node id="222">
+  <data key="d0">5.586082857504325</data>
+  <data key="d1">50.619238879373945</data>
+</node>
+<node id="223">
+  <data key="d0">4.719326242845141</data>
+  <data key="d1">50.90961688178568</data>
+</node>
+<node id="224">
+  <data key="d0">3.817932637787647</data>
+  <data key="d1">50.98738173449452</data>
+</node>
+<node id="225">
+  <data key="d0">5.528501511048866</data>
+  <data key="d1">50.754791201878334</data>
+</node>
+<node id="226">
+  <data key="d0">4.55874876192373</data>
+  <data key="d1">51.13577068020381</data>
+</node>
+<node id="228">
+  <data key="d0">4.219493770325084</data>
+  <data key="d1">50.44762106928368</data>
+</node>
+<node id="229">
+  <data key="d0">4.466611957799534</data>
+  <data key="d1">51.18034583728259</data>
+</node>
+<node id="230">
+  <data key="d0">4.477714277974805</data>
+  <data key="d1">51.1733192445865</data>
+</node>
+<node id="231">
+  <data key="d0">3.463377295826739</data>
+  <data key="d1">50.55839178701696</data>
+</node>
+<node id="233">
+  <data key="d0">5.962765353747281</data>
+  <data key="d1">50.717842209346905</data>
+</node>
+<node id="235">
+  <data key="d0">4.738712102247343</data>
+  <data key="d1">50.43768906088378</data>
+</node>
+<node id="236">
+  <data key="d0">4.485838847594549</data>
+  <data key="d1">50.74828960167378</data>
+</node>
+<node id="237">
+  <data key="d0">4.438954455989951</data>
+  <data key="d1">51.19442968616941</data>
+</node>
+<node id="238">
+  <data key="d0">4.44137482499571</data>
+  <data key="d1">50.90473848938887</data>
+</node>
+<node id="239">
+  <data key="d0">4.159551878500382</data>
+  <data key="d1">50.47068972798043</data>
+</node>
+<node id="240">
+  <data key="d0">4.437333613573274</data>
+  <data key="d1">50.9033123139985</data>
+</node>
+<node id="245">
+  <data key="d0">5.465481943550681</data>
+  <data key="d1">50.966536124630096</data>
+</node>
+<node id="246">
+  <data key="d0">3.193490429501546</data>
+  <data key="d1">51.29792181670587</data>
+</node>
+<node id="247">
+  <data key="d0">3.189961042918859</data>
+  <data key="d1">51.31155961095565</data>
+</node>
+<node id="248">
+  <data key="d0">4.585628215438131</data>
+  <data key="d1">50.65338084619118</data>
+</node>
+<node id="249">
+  <data key="d0">4.539598190487697</data>
+  <data key="d1">50.99691903428607</data>
+</node>
+<node id="252">
+  <data key="d0">4.570552882886185</data>
+  <data key="d1">50.684695965115615</data>
+</node>
+<node id="253">
+  <data key="d0">4.395640418995013</data>
+  <data key="d1">50.85062939401872</data>
+</node>
+<node id="254">
+  <data key="d0">4.415647769343289</data>
+  <data key="d1">51.01329401196103</data>
+</node>
+<node id="255">
+  <data key="d0">4.401012978578673</data>
+  <data key="d1">51.02017584119028</data>
+</node>
+<node id="256">
+  <data key="d0">5.29814882259287</data>
+  <data key="d1">50.93812746483542</data>
+</node>
+<node id="257">
+  <data key="d0">5.188162889919745</data>
+  <data key="d1">50.963577094271876</data>
+</node>
+<node id="259">
+  <data key="d0">5.328240849493442</data>
+  <data key="d1">50.94981537418584</data>
+</node>
+<node id="260">
+  <data key="d0">5.458178589832377</data>
+  <data key="d1">50.96486362007155</data>
+</node>
+<node id="261">
+  <data key="d0">4.516505520744064</data>
+  <data key="d1">51.006942554600634</data>
+</node>
+<node id="262">
+  <data key="d0">4.499111373878437</data>
+  <data key="d1">51.01896150171536</data>
+</node>
+<node id="263">
+  <data key="d0">4.421297010724064</data>
+  <data key="d1">50.90785130285398</data>
+</node>
+<node id="265">
+  <data key="d0">3.799772744724113</data>
+  <data key="d1">51.0012707682435</data>
+</node>
+<node id="266">
+  <data key="d0">4.304387596648847</data>
+  <data key="d1">50.802437162500425</data>
+</node>
+<node id="267">
+  <data key="d0">4.495848143114104</data>
+  <data key="d1">51.068786849017776</data>
+</node>
+<node id="269">
+  <data key="d0">4.925193163284326</data>
+  <data key="d1">50.471478483258345</data>
+</node>
+<node id="270">
+  <data key="d0">4.882956151383552</data>
+  <data key="d1">50.468377805866474</data>
+</node>
+<node id="271">
+  <data key="d0">3.673838024558533</data>
+  <data key="d1">51.043078911315305</data>
+</node>
+<node id="272">
+  <data key="d0">5.311996617106377</data>
+  <data key="d1">50.94071080521228</data>
+</node>
+<node id="273">
+  <data key="d0">4.433743354448138</data>
+  <data key="d1">51.22828113168895</data>
+</node>
+<node id="279">
+  <data key="d0">3.483794113366543</data>
+  <data key="d1">50.5533555200047</data>
+</node>
+<node id="280">
+  <data key="d0">4.701851396141718</data>
+  <data key="d1">50.86292878636887</data>
+</node>
+<node id="281">
+  <data key="d0">4.46504589522373</data>
+  <data key="d1">51.179461412478226</data>
+</node>
+<node id="291">
+  <data key="d0">4.823011898207811</data>
+  <data key="d1">50.45369168662788</data>
+</node>
+<node id="292">
+  <data key="d0">4.81238110023452</data>
+  <data key="d1">50.45520871898455</data>
+</node>
+<node id="295">
+  <data key="d0">3.875019009573583</data>
+  <data key="d1">50.78114798390515</data>
+</node>
+<node id="296">
+  <data key="d0">3.227961830454422</data>
+  <data key="d1">51.2934020059573</data>
+</node>
+<node id="297">
+  <data key="d0">4.719555522064124</data>
+  <data key="d1">50.87102076291592</data>
+</node>
+<node id="298">
+  <data key="d0">4.46794075857252</data>
+  <data key="d1">50.885939410344776</data>
+</node>
+<node id="299">
+  <data key="d0">4.481587510383539</data>
+  <data key="d1">50.88350886893059</data>
+</node>
+<node id="300">
+  <data key="d0">2.973269368272168</data>
+  <data key="d1">51.211418505745435</data>
+</node>
+<node id="301">
+  <data key="d0">2.96566802680182</data>
+  <data key="d1">51.213211909116644</data>
+</node>
+<node id="302">
+  <data key="d0">4.125672905581451</data>
+  <data key="d1">50.875793083464096</data>
+</node>
+<node id="304">
+  <data key="d0">4.661004243925668</data>
+  <data key="d1">50.90271023340653</data>
+</node>
+<node id="305">
+  <data key="d0">4.704375755854781</data>
+  <data key="d1">50.901816990055146</data>
+</node>
+<node id="306">
+  <data key="d0">4.5203401066749</data>
+  <data key="d1">50.88758363273236</data>
+</node>
+<node id="307">
+  <data key="d0">4.93820273112694</data>
+  <data key="d1">50.765546697135406</data>
+</node>
+<node id="308">
+  <data key="d0">4.392843402341076</data>
+  <data key="d1">50.43203571765845</data>
+</node>
+<node id="309">
+  <data key="d0">4.418601960644203</data>
+  <data key="d1">50.903403088903985</data>
+</node>
+<node id="310">
+  <data key="d0">4.310837271313535</data>
+  <data key="d1">50.811015106459536</data>
+</node>
+<node id="311">
+  <data key="d0">4.301613548695725</data>
+  <data key="d1">50.799355619505214</data>
+</node>
+<node id="312">
+  <data key="d0">5.45084854582637</data>
+  <data key="d1">50.6584282792231</data>
+</node>
+<node id="315">
+  <data key="d0">3.792232013785391</data>
+  <data key="d1">51.005458674054495</data>
+</node>
+<node id="316">
+  <data key="d0">3.841293354170914</data>
+  <data key="d1">50.62436048154618</data>
+</node>
+<node id="317">
+  <data key="d0">3.227222030048265</data>
+  <data key="d1">50.809339183674304</data>
+</node>
+<node id="318">
+  <data key="d0">5.077862215743164</data>
+  <data key="d1">50.30656300260975</data>
+</node>
+<node id="320">
+  <data key="d0">5.095382895681097</data>
+  <data key="d1">50.75246474255941</data>
+</node>
+<node id="321">
+  <data key="d0">3.211136346243212</data>
+  <data key="d1">51.27427456776708</data>
+</node>
+<node id="322">
+  <data key="d0">5.765610973974054</data>
+  <data key="d1">49.69091617271702</data>
+</node>
+<node id="324">
+  <data key="d0">4.318287302022904</data>
+  <data key="d1">50.82269063041308</data>
+</node>
+<node id="326">
+  <data key="d0">5.888837161073264</data>
+  <data key="d1">50.74055130936573</data>
+</node>
+<node id="327">
+  <data key="d0">5.557773789583539</data>
+  <data key="d1">50.60486243325062</data>
+</node>
+<node id="328">
+  <data key="d0">3.29168960870419</data>
+  <data key="d1">50.83577387128897</data>
+</node>
+<node id="329">
+  <data key="d0">3.769073560987029</data>
+  <data key="d1">51.01755617724031</data>
+</node>
+<node id="333">
+  <data key="d0">4.389973803453673</data>
+  <data key="d1">50.39761984736113</data>
+</node>
+<node id="334">
+  <data key="d0">4.235457697656699</data>
+  <data key="d1">50.72926216683373</data>
+</node>
+<node id="335">
+  <data key="d0">3.253449878738505</data>
+  <data key="d1">51.15624307569528</data>
+</node>
+<node id="338">
+  <data key="d0">5.844119847892483</data>
+  <data key="d1">50.637698267583914</data>
+</node>
+<node id="340">
+  <data key="d0">4.346420172536853</data>
+  <data key="d1">50.87614920685213</data>
+</node>
+<node id="341">
+  <data key="d0">5.936919341527757</data>
+  <data key="d1">50.616723733877386</data>
+</node>
+<node id="344">
+  <data key="d0">3.763090598782263</data>
+  <data key="d1">51.075287789349446</data>
+</node>
+<node id="346">
+  <data key="d0">4.426135291237044</data>
+  <data key="d1">51.20607457190937</data>
+</node>
+<node id="348">
+  <data key="d0">4.173994685503573</data>
+  <data key="d1">50.46945648075924</data>
+</node>
+<node id="349">
+  <data key="d0">3.093302532270982</data>
+  <data key="d1">51.20014215183797</data>
+</node>
+<node id="350">
+  <data key="d0">4.830267842830339</data>
+  <data key="d1">50.4588680785822</data>
+</node>
+<node id="355">
+  <data key="d0">5.304512624955292</data>
+  <data key="d1">50.70332698622231</data>
+</node>
+<node id="358">
+  <data key="d0">3.75184403530177</data>
+  <data key="d1">51.07714461645706</data>
+</node>
+<node id="359">
+  <data key="d0">4.830357979601117</data>
+  <data key="d1">50.4592993220564</data>
+</node>
+<node id="360">
+  <data key="d0">3.652160605933627</data>
+  <data key="d1">50.564470088750596</data>
+</node>
+<node id="361">
+  <data key="d0">4.050995842477096</data>
+  <data key="d1">50.904272526732164</data>
+</node>
+<node id="362">
+  <data key="d0">5.192954825130896</data>
+  <data key="d1">50.250457790039825</data>
+</node>
+<node id="363">
+  <data key="d0">2.948865118093857</data>
+  <data key="d1">51.215977738014004</data>
+</node>
+<node id="365">
+  <data key="d0">4.520261196314675</data>
+  <data key="d1">50.9973978328852</data>
+</node>
+<node id="366">
+  <data key="d0">4.499848789839954</data>
+  <data key="d1">50.882533849693836</data>
+</node>
+<node id="368">
+  <data key="d0">5.77272503277465</data>
+  <data key="d1">49.69030610040707</data>
+</node>
+<node id="369">
+  <data key="d0">4.051181877432805</data>
+  <data key="d1">50.93391536903197</data>
+</node>
+<node id="370">
+  <data key="d0">5.832655300571821</data>
+  <data key="d1">49.571820401677016</data>
+</node>
+<node id="371">
+  <data key="d0">4.516345007698432</data>
+  <data key="d1">50.40747077363055</data>
+</node>
+<node id="372">
+  <data key="d0">3.687987170197491</data>
+  <data key="d1">51.04005123439136</data>
+</node>
+<node id="373">
+  <data key="d0">4.435191721738345</data>
+  <data key="d1">51.29048753810093</data>
+</node>
+<node id="374">
+  <data key="d0">3.880942366188658</data>
+  <data key="d1">50.7573318123685</data>
+</node>
+<node id="376">
+  <data key="d0">5.816499304012227</data>
+  <data key="d1">50.74690426734682</data>
+</node>
+<node id="380">
+  <data key="d0">4.34361318008825</data>
+  <data key="d1">51.153907594531866</data>
+</node>
+<node id="381">
+  <data key="d0">4.362153361073685</data>
+  <data key="d1">51.18915694553318</data>
+</node>
+<node id="383">
+  <data key="d0">4.034584022031007</data>
+  <data key="d1">50.840910447862136</data>
+</node>
+<node id="384">
+  <data key="d0">5.572653811363097</data>
+  <data key="d1">50.60604051059317</data>
+</node>
+<node id="385">
+  <data key="d0">4.432882048224202</data>
+  <data key="d1">51.205954943286514</data>
+</node>
+<node id="386">
+  <data key="d0">4.372785596097138</data>
+  <data key="d1">51.200989069234915</data>
+</node>
+<node id="391">
+  <data key="d0">4.461056596017587</data>
+  <data key="d1">50.90946643539263</data>
+</node>
+<node id="398">
+  <data key="d0">4.71513139976839</data>
+  <data key="d1">50.866591878223396</data>
+</node>
+<node id="399">
+  <data key="d0">4.344747107412361</data>
+  <data key="d1">51.08219822722983</data>
+</node>
+<node id="407">
+  <data key="d0">4.828903845010067</data>
+  <data key="d1">51.00584564686385</data>
+</node>
+<node id="408">
+  <data key="d0">4.470448499124541</data>
+  <data key="d1">50.97553232072336</data>
+</node>
+<node id="414">
+  <data key="d0">4.521784129683277</data>
+  <data key="d1">50.232028077080415</data>
+</node>
+<node id="415">
+  <data key="d0">5.5871602741870365</data>
+  <data key="d1">50.490753740198286</data>
+</node>
+<node id="418">
+  <data key="d0">4.4250092320446175</data>
+  <data key="d1">50.406810730879485</data>
+</node>
+<node id="419">
+  <data key="d0">3.165592693688154</data>
+  <data key="d1">51.128555278432586</data>
+</node>
+<node id="420">
+  <data key="d0">4.829945523516634</data>
+  <data key="d1">50.992726214015235</data>
+</node>
+<node id="421">
+  <data key="d0">4.434792500929691</data>
+  <data key="d1">51.317231534343136</data>
+</node>
+<node id="423">
+  <data key="d0">5.338176851757878</data>
+  <data key="d1">50.95853750115146</data>
+</node>
+<node id="430">
+  <data key="d0">4.341374082875803</data>
+  <data key="d1">50.78415112843236</data>
+</node>
+<node id="433">
+  <data key="d0">4.470119526779542</data>
+  <data key="d1">51.17130092795551</data>
+</node>
+<node id="434">
+  <data key="d0">4.916954243798775</data>
+  <data key="d1">50.242444524560426</data>
+</node>
+<node id="442">
+  <data key="d0">4.606001983585475</data>
+  <data key="d1">51.13239724294075</data>
+</node>
+<node id="450">
+  <data key="d0">3.219680037541851</data>
+  <data key="d1">50.92120714552676</data>
+</node>
+<edge source="RUISBROEK-SAUVEGARDE" target="PUURS"/>
+<edge source="RUISBROEK-SAUVEGARDE" target="399"/>
+<edge source="POPERINGE" target="IEPER"/>
+<edge source="GEDINNE" target="108"/>
+<edge source="GEDINNE" target="GRAIDE"/>
+<edge source="MESSANCY" target="82"/>
+<edge source="MESSANCY" target="370"/>
+<edge source="BRUSSEL-ZUID" target="32"/>
+<edge source="BRUSSEL-ZUID" target="111"/>
+<edge source="BRUSSEL-ZUID" target="130"/>
+<edge source="BRUSSEL-ZUID" target="142"/>
+<edge source="BRUSSEL-ZUID" target="182"/>
+<edge source="BRUSSEL-ZUID" target="VORST-ZUID"/>
+<edge source="BRUSSEL-ZUID" target="311"/>
+<edge source="BLATON" target="PERUWELZ"/>
+<edge source="BLATON" target="HARCHIES"/>
+<edge source="BORNEM" target="PUURS"/>
+<edge source="BORNEM" target="TEMSE"/>
+<edge source="QUEVY" target="GENLY"/>
+<edge source="BERTRIX" target="LIBRAMONT"/>
+<edge source="BERTRIX" target="PALISEUL"/>
+<edge source="BERTRIX" target="FLORENVILLE"/>
+<edge source="MONT-SAINT-GUIBERT" target="BLANMONT"/>
+<edge source="MONT-SAINT-GUIBERT" target="248"/>
+<edge source="OUGREE" target="SERAING"/>
+<edge source="OUGREE" target="327"/>
+<edge source="BRUGGE-SINT-PIETERS" target="BRUGGE"/>
+<edge source="BRUGGE-SINT-PIETERS" target="116"/>
+<edge source="MARCHIENNE-ZONE" target="333"/>
+<edge source="MARCHIENNE-ZONE" target="104"/>
+<edge source="AMPSIN" target="AMAY"/>
+<edge source="AMPSIN" target="HUY"/>
+<edge source="WONDELGEM" target="EVERGEM"/>
+<edge source="WONDELGEM" target="61"/>
+<edge source="RONET" target="NAMUR"/>
+<edge source="RONET" target="292"/>
+<edge source="RONET" target="291"/>
+<edge source="RONET" target="359"/>
+<edge source="HARCHIES" target="VILLE-POMMEROEUL"/>
+<edge source="BRUSSEL-KAPELLEKERK" target="130"/>
+<edge source="BRUSSEL-KAPELLEKERK" target="BRUSSEL-CENTRAAL"/>
+<edge source="DENDERMONDE" target="OUDEGEM"/>
+<edge source="DENDERMONDE" target="ZELE"/>
+<edge source="DENDERMONDE" target="BAASRODE-ZUID"/>
+<edge source="DENDERMONDE" target="SINT-GILLIS(DENDERMONDE)"/>
+<edge source="BILZEN" target="TONGEREN"/>
+<edge source="BILZEN" target="144"/>
+<edge source="SINT-TRUIDEN" target="ALKEN"/>
+<edge source="SINT-TRUIDEN" target="320"/>
+<edge source="SOLRE-SUR-SAMBRE" target="LABUISSIERE"/>
+<edge source="SOLRE-SUR-SAMBRE" target="ERQUELINNES-VILLAGE"/>
+<edge source="OBOURG" target="156"/>
+<edge source="OBOURG" target="NIMY"/>
+<edge source="MASNUY-SAINT-PIERRE" target="NEUFVILLES"/>
+<edge source="MASNUY-SAINT-PIERRE" target="183"/>
+<edge source="LISSEWEGE" target="246"/>
+<edge source="EKEREN" target="105"/>
+<edge source="EKEREN" target="373"/>
+<edge source="ARCHENNES" target="FLORIVAL"/>
+<edge source="ARCHENNES" target="GASTUCHE"/>
+<edge source="LOKEREN-OOST" target="LOKEREN"/>
+<edge source="LOKEREN-OOST" target="SINAAI"/>
+<edge source="NAMUR" target="RHISNES"/>
+<edge source="NAMUR" target="NAMUR-HERBATTE"/>
+<edge source="NAMUR" target="359"/>
+<edge source="YVES-GOMEZEE" target="WALCOURT"/>
+<edge source="YVES-GOMEZEE" target="414"/>
+<edge source="MARIEMBOURG" target="PHILIPPEVILLE"/>
+<edge source="BRUSSEL-SCHUMAN" target="253"/>
+<edge source="BRUSSEL-SCHUMAN" target="BRUSSEL-LUXEMBURG"/>
+<edge source="BRUSSEL-SCHUMAN" target="40"/>
+<edge source="HAALTERT" target="WELLE"/>
+<edge source="HAALTERT" target="EDE"/>
+<edge source="WICHELEN" target="SCHELLEBELLE"/>
+<edge source="WICHELEN" target="SCHOONAARDE"/>
+<edge source="OOSTKAMP" target="BEERNEM"/>
+<edge source="OOSTKAMP" target="335"/>
+<edge source="ZELE" target="LOKEREN"/>
+<edge source="JAMBES-EST" target="NAMUR-HERBATTE"/>
+<edge source="JAMBES-EST" target="DAVE-SAINT-MARTIN"/>
+<edge source="OBAIX-BUZET" target="172"/>
+<edge source="OBAIX-BUZET" target="LUTTRE"/>
+<edge source="TURNHOUT" target="TIELEN"/>
+<edge source="NEERWINDEN" target="EZEMAAL"/>
+<edge source="NEERWINDEN" target="LANDEN"/>
+<edge source="SINT-GENESIUS-RODE" target="HOLLEKEN"/>
+<edge source="SINT-GENESIUS-RODE" target="DE HOEK"/>
+<edge source="HOUYET" target="GENDRON-CELLES"/>
+<edge source="HOUYET" target="BEAURAING"/>
+<edge source="SCHENDELBEKE" target="IDEGEM"/>
+<edge source="SCHENDELBEKE" target="295"/>
+<edge source="BLANKENBERGE" target="116"/>
+<edge source="YVOIR" target="GODINNE"/>
+<edge source="YVOIR" target="DINANT"/>
+<edge source="FARCIENNES" target="AISEAU"/>
+<edge source="FARCIENNES" target="LE CAMPINAIRE"/>
+<edge source="LODELINSART" target="FLEURUS"/>
+<edge source="LODELINSART" target="CHARLEROI-OUEST"/>
+<edge source="SCHELDEWINDEKE" target="BALEGEM-DORP"/>
+<edge source="SCHELDEWINDEKE" target="MOORTSELE"/>
+<edge source="BURST" target="EDE"/>
+<edge source="BURST" target="BURST"/>
+<edge source="BURST" target="BAMBRUGGE"/>
+<edge source="BURST" target="TERHAGEN"/>
+<edge source="LICHTERVELDE" target="KORTEMARK"/>
+<edge source="LICHTERVELDE" target="TIELT"/>
+<edge source="LICHTERVELDE" target="TORHOUT"/>
+<edge source="LICHTERVELDE" target="ROESELARE"/>
+<edge source="BOMAL" target="BARVAUX"/>
+<edge source="BOMAL" target="SY"/>
+<edge source="LA ROCHE(BRABANT)" target="FAUX"/>
+<edge source="LA ROCHE(BRABANT)" target="VILLERS-LA-VILLE"/>
+<edge source="TIENEN" target="VERTRIJK"/>
+<edge source="TIENEN" target="EZEMAAL"/>
+<edge source="HOBOKEN-POLDER" target="380"/>
+<edge source="HOBOKEN-POLDER" target="381"/>
+<edge source="EEKLO" target="WAARSCHOOT"/>
+<edge source="FLORIVAL" target="PECROT"/>
+<edge source="FONTAINE-VALMONT" target="211"/>
+<edge source="FONTAINE-VALMONT" target="LABUISSIERE"/>
+<edge source="OKEGEM" target="IDDERGEM"/>
+<edge source="OKEGEM" target="383"/>
+<edge source="KWATRECHT" target="WETTEREN"/>
+<edge source="KWATRECHT" target="265"/>
+<edge source="GROENENDAAL" target="BOSVOORDE"/>
+<edge source="GROENENDAAL" target="HOEILAART"/>
+<edge source="EDINGEN" target="SILLY"/>
+<edge source="EDINGEN" target="HERNE"/>
+<edge source="EDINGEN" target="143"/>
+<edge source="HOLLEKEN" target="LINKEBEEK"/>
+<edge source="CHARLEROI-SUD" target="COUILLET"/>
+<edge source="CHARLEROI-SUD" target="49"/>
+<edge source="CHARLEROI-SUD" target="CHARLEROI-OUEST"/>
+<edge source="DIKSMUIDE" target="KORTEMARK"/>
+<edge source="DIKSMUIDE" target="VEURNE"/>
+<edge source="GAVERE-ASPER" target="ZINGEM"/>
+<edge source="GAVERE-ASPER" target="EKE-NAZARETH"/>
+<edge source="WAREMME" target="BLERET"/>
+<edge source="WAREMME" target="LANDEN"/>
+<edge source="LINKEBEEK" target="176"/>
+<edge source="MELKOUWEN" target="BERLAAR"/>
+<edge source="MELKOUWEN" target="HEIST-OP-DEN-BERG"/>
+<edge source="LOT" target="BUIZINGEN"/>
+<edge source="LOT" target="RUISBROEK"/>
+<edge source="DAVE-SAINT-MARTIN" target="NANINNE"/>
+<edge source="MELLE" target="265"/>
+<edge source="MELLE" target="315"/>
+<edge source="ERPE-MERE" target="VIJFHUIZEN"/>
+<edge source="ERPE-MERE" target="BAMBRUGGE"/>
+<edge source="FORRIERES" target="ROCHEFORT-JEMELLE"/>
+<edge source="FORRIERES" target="GRUPONT"/>
+<edge source="GENLY" target="FRAMERIES"/>
+<edge source="BEERNEM" target="MARIA-AALTER"/>
+<edge source="NEUFCHATEAU" target="LIBRAMONT"/>
+<edge source="NEUFCHATEAU" target="47"/>
+<edge source="BEGIJNENDIJK" target="BOOISCHOT"/>
+<edge source="BEGIJNENDIJK" target="407"/>
+<edge source="RIVAGE" target="COMBLAIN-LA-TOUR"/>
+<edge source="RIVAGE" target="415"/>
+<edge source="RIVAGE" target="AYWAILLE"/>
+<edge source="LANDELIES" target="104"/>
+<edge source="LANDELIES" target="HOURPES"/>
+<edge source="VERVIERS-CENTRAL" target="PEPINSTER"/>
+<edge source="VERVIERS-CENTRAL" target="VERVIERS-PALAIS"/>
+<edge source="TIELEN" target="30"/>
+<edge source="OPWIJK" target="MERCHTEM"/>
+<edge source="OPWIJK" target="HEIZIJDE"/>
+<edge source="LUSTIN" target="GODINNE"/>
+<edge source="LUSTIN" target="JAMBES"/>
+<edge source="LEUZE" target="HAVINNES"/>
+<edge source="LEUZE" target="ATH"/>
+<edge source="BAS-OHA" target="STATTE"/>
+<edge source="BAS-OHA" target="JAVA"/>
+<edge source="DELTA" target="MERODE"/>
+<edge source="DELTA" target="ARCADEN"/>
+<edge source="DELTA" target="ETTERBEEK"/>
+<edge source="DELTA" target="WATERMAAL"/>
+<edge source="FROYENNES" target="TOURNAI"/>
+<edge source="FROYENNES" target="HERSEAUX"/>
+<edge source="FROYENNES" target="FROYENNES"/>
+<edge source="BOUWEL" target="NIJLEN"/>
+<edge source="BOUWEL" target="WOLFSTEE"/>
+<edge source="GONTRODE" target="LANDSKOUTER"/>
+<edge source="GONTRODE" target="265"/>
+<edge source="HAVERSIN" target="362"/>
+<edge source="HAVERSIN" target="AYE"/>
+<edge source="NANINNE" target="SART-BERNARD"/>
+<edge source="LOBBES" target="THUIN"/>
+<edge source="LOBBES" target="211"/>
+<edge source="WAARSCHOOT" target="SLEIDINGE"/>
+<edge source="NIVELLES" target="172"/>
+<edge source="NIVELLES" target="LILLOIS"/>
+<edge source="ANSEREMME" target="GENDRON-CELLES"/>
+<edge source="ANSEREMME" target="434"/>
+<edge source="HOEILAART" target="236"/>
+<edge source="MERCHTEM" target="MOLLEM"/>
+<edge source="HEMIKSEM" target="SCHELLE"/>
+<edge source="HEMIKSEM" target="380"/>
+<edge source="KONTICH-LINT" target="DUFFEL"/>
+<edge source="KONTICH-LINT" target="13"/>
+<edge source="KONTICH-LINT" target="HOVE"/>
+<edge source="FLORENVILLE" target="12"/>
+<edge source="LANDSKOUTER" target="MOORTSELE"/>
+<edge source="COUR-SUR-HEURE" target="BERZEE"/>
+<edge source="COUR-SUR-HEURE" target="HAM-SUR-HEURE"/>
+<edge source="TESTELT" target="ZICHEM"/>
+<edge source="TESTELT" target="LANGDORP"/>
+<edge source="SERSKAMP" target="LEDE"/>
+<edge source="SERSKAMP" target="SCHELLEBELLE"/>
+<edge source="NIEUWKERKEN-WAAS" target="BEVEREN(WAAS)"/>
+<edge source="NIEUWKERKEN-WAAS" target="SINT-NIKLAAS-OOST"/>
+<edge source="NOSSEGEM" target="366"/>
+<edge source="NOSSEGEM" target="306"/>
+<edge source="ECAUSSINNES" target="MARCHE-LEZ-ECAUSSINNES"/>
+<edge source="ECAUSSINNES" target="36"/>
+<edge source="GROOT-BIJGAARDEN" target="SINT-AGATHA-BERCHEM"/>
+<edge source="GROOT-BIJGAARDEN" target="DILBEEK"/>
+<edge source="SINT-JOB" target="DIESDELLE"/>
+<edge source="SINT-JOB" target="430"/>
+<edge source="WILDERT" target="KALMTHOUT"/>
+<edge source="WILDERT" target="ESSEN"/>
+<edge source="IZEGEM" target="ROESELARE"/>
+<edge source="IZEGEM" target="450"/>
+<edge source="APPELTERRE" target="EICHEM"/>
+<edge source="APPELTERRE" target="ZANDBERGEN"/>
+<edge source="ESSENE-LOMBEEK" target="TERNAT"/>
+<edge source="ESSENE-LOMBEEK" target="LIEDEKERKE"/>
+<edge source="NIEL" target="BOOM"/>
+<edge source="NIEL" target="SCHELLE"/>
+<edge source="SINT-DENIJS-BOEKEL" target="MUNKZWALM"/>
+<edge source="SINT-DENIJS-BOEKEL" target="OUDENAARDE"/>
+<edge source="MAUBRAY" target="CALLENELLE"/>
+<edge source="MAUBRAY" target="279"/>
+<edge source="LEUVEN" target="178"/>
+<edge source="LEUVEN" target="186"/>
+<edge source="LEUVEN" target="297"/>
+<edge source="LEUVEN" target="307"/>
+<edge source="LEUVEN" target="HERENT"/>
+<edge source="LEUVEN" target="398"/>
+<edge source="PROFONDSART" target="RIXENSART"/>
+<edge source="PROFONDSART" target="OTTIGNIES"/>
+<edge source="MECHELEN-NEKKERSPOEL" target="MECHELEN"/>
+<edge source="MECHELEN-NEKKERSPOEL" target="7"/>
+<edge source="MECHELEN-NEKKERSPOEL" target="262"/>
+<edge source="EVERGEM" target="SLEIDINGE"/>
+<edge source="SERAING" target="91"/>
+<edge source="DRONGEN" target="271"/>
+<edge source="DRONGEN" target="LANDEGEM"/>
+<edge source="CHATELET" target="371"/>
+<edge source="CHATELET" target="129"/>
+<edge source="ALKEN" target="HASSELT"/>
+<edge source="HEVER" target="249"/>
+<edge source="HEVER" target="BOORTMEERBEEK"/>
+<edge source="THUIN" target="HOURPES"/>
+<edge source="LANGDORP" target="158"/>
+<edge source="CHARLEROI-OUEST" target="418"/>
+<edge source="BERINGEN" target="151"/>
+<edge source="BERINGEN" target="HEUSDEN"/>
+<edge source="HEIZIJDE" target="LEBBEKE"/>
+<edge source="POIX-SAINT-HUBERT" target="GRUPONT"/>
+<edge source="POIX-SAINT-HUBERT" target="HATRIVAL"/>
+<edge source="HAVINNES" target="TOURNAI"/>
+<edge source="WILLEBROEK" target="PUURS"/>
+<edge source="WILLEBROEK" target="255"/>
+<edge source="NOORDERKEMPEN" target="122"/>
+<edge source="WETTEREN" target="SCHELLEBELLE"/>
+<edge source="GLONS" target="LIERS"/>
+<edge source="GLONS" target="225"/>
+<edge source="BRUGELETTE" target="MEVERGNIES-ATTRE"/>
+<edge source="BRUGELETTE" target="CAMBRON-CASTEAU"/>
+<edge source="BELSELE" target="SINT-NIKLAAS"/>
+<edge source="BELSELE" target="SINAAI"/>
+<edge source="DIESDELLE" target="BOONDAAL"/>
+<edge source="HEIST-OP-DEN-BERG" target="BOOISCHOT"/>
+<edge source="NIJLEN" target="KESSEL"/>
+<edge source="CARLSBOURG" target="GRAIDE"/>
+<edge source="CARLSBOURG" target="PALISEUL"/>
+<edge source="ARLON" target="82"/>
+<edge source="ARLON" target="VIVILLE"/>
+<edge source="GENT-SINT-PIETERS" target="224"/>
+<edge source="GENT-SINT-PIETERS" target="DE PINTE"/>
+<edge source="GENT-SINT-PIETERS" target="159"/>
+<edge source="GENT-SINT-PIETERS" target="372"/>
+<edge source="GENT-SINT-PIETERS" target="271"/>
+<edge source="RHISNES" target="21"/>
+<edge source="BIERGES-WALIBI" target="WAVRE"/>
+<edge source="BIERGES-WALIBI" target="LIMAL"/>
+<edge source="COMBLAIN-LA-TOUR" target="HAMOIR"/>
+<edge source="TOURNAI" target="ANTOING"/>
+<edge source="ENGIS" target="FLEMALLE-HAUTE"/>
+<edge source="ENGIS" target="HERMALLE-SOUS-HUY"/>
+<edge source="NAMECHE" target="SCLAIGNEAUX"/>
+<edge source="NAMECHE" target="72"/>
+<edge source="THIEU" target="BRACQUEGNIES"/>
+<edge source="THIEU" target="HAVRE"/>
+<edge source="VISE" target="39"/>
+<edge source="VISE" target="BRESSOUX"/>
+<edge source="HALANZY" target="AUBANGE"/>
+<edge source="HALANZY" target="VIRTON"/>
+<edge source="TOLLEMBEEK" target="HERNE"/>
+<edge source="TOLLEMBEEK" target="GALMAARDEN"/>
+<edge source="WALCOURT" target="PRY"/>
+<edge source="NAMUR-HERBATTE" target="JAMBES"/>
+<edge source="NAMUR-HERBATTE" target="270"/>
+<edge source="OTTIGNIES" target="252"/>
+<edge source="OTTIGNIES" target="248"/>
+<edge source="OTTIGNIES" target="CEROUX-MOUSTY"/>
+<edge source="HASSELT" target="DIEPENBEEK"/>
+<edge source="HASSELT" target="272"/>
+<edge source="HASSELT" target="256"/>
+<edge source="BERLAAR" target="442"/>
+<edge source="MELREUX-HOTTON" target="BARVAUX"/>
+<edge source="MELREUX-HOTTON" target="MARCHE-EN-FAMENNE"/>
+<edge source="ESNEUX" target="POULSEUR"/>
+<edge source="ESNEUX" target="HONY"/>
+<edge source="BOORTMEERBEEK" target="HAACHT"/>
+<edge source="COURRIERE" target="BOIS D'AUSSE"/>
+<edge source="COURRIERE" target="ASSESSE"/>
+<edge source="SINT-NIKLAAS-OOST" target="SINT-NIKLAAS"/>
+<edge source="NIMY" target="MONS"/>
+<edge source="JETTE" target="ZELLIK"/>
+<edge source="JETTE" target="155"/>
+<edge source="JETTE" target="SINT-AGATHA-BERCHEM"/>
+<edge source="ZONHOVEN" target="ZOLDER"/>
+<edge source="ZONHOVEN" target="423"/>
+<edge source="MOL" target="BALEN"/>
+<edge source="MOL" target="BALEN-WERKPLAATSEN"/>
+<edge source="MOL" target="GEEL"/>
+<edge source="LEVAL" target="228"/>
+<edge source="LEVAL" target="BINCHE"/>
+<edge source="CHAPOIS" target="LEIGNON"/>
+<edge source="CHAPOIS" target="362"/>
+<edge source="HAVRE" target="156"/>
+<edge source="ZOLDER" target="ZOLDER-KRUISSPOREN"/>
+<edge source="BELLEM" target="HANSBEKE"/>
+<edge source="BELLEM" target="AALTER"/>
+<edge source="OUDEGEM" target="SCHOONAARDE"/>
+<edge source="BOKRIJK" target="KIEWIT"/>
+<edge source="BOKRIJK" target="260"/>
+<edge source="BOIS D'AUSSE" target="SART-BERNARD"/>
+<edge source="VIANE-MOERBEKE" target="GALMAARDEN"/>
+<edge source="VIANE-MOERBEKE" target="374"/>
+<edge source="CAMBRON-CASTEAU" target="LENS"/>
+<edge source="MERY" target="TILFF"/>
+<edge source="MERY" target="HONY"/>
+<edge source="BEERVELDE" target="LOKEREN"/>
+<edge source="BEERVELDE" target="344"/>
+<edge source="VIJFHUIZEN" target="AALST-KERREBROEK"/>
+<edge source="LIEGE-CARRE" target="LIEGE-GUILLEMINS"/>
+<edge source="LIEGE-CARRE" target="LIEGE-SAINT-LAMBERT"/>
+<edge source="ERNAGE" target="CHASTRE"/>
+<edge source="ERNAGE" target="GEMBLOUX"/>
+<edge source="ANDENNE" target="CHATEAU-DE-SEILLES"/>
+<edge source="ANDENNE" target="JAVA"/>
+<edge source="TAMINES" target="AISEAU"/>
+<edge source="TAMINES" target="AUVELAIS"/>
+<edge source="MOENSBERG" target="430"/>
+<edge source="MOENSBERG" target="BEERSEL"/>
+<edge source="CHAPELLE-DIEU" target="GEMBLOUX"/>
+<edge source="CHAPELLE-DIEU" target="MAZY"/>
+<edge source="BALEN" target="LEOPOLDSBURG"/>
+<edge source="ZOTTEGEM" target="MUNKZWALM"/>
+<edge source="ZOTTEGEM" target="BALEGEM-ZUID"/>
+<edge source="ZOTTEGEM" target="LIERDE"/>
+<edge source="ZOTTEGEM" target="HILLEGEM"/>
+<edge source="FAUX" target="COURT-SAINT-ETIENNE"/>
+<edge source="TONGEREN" target="225"/>
+<edge source="BOONDAAL" target="ARCADEN"/>
+<edge source="GOUY-LEZ-PIETON" target="GODARVILLE"/>
+<edge source="GOUY-LEZ-PIETON" target="PONT-A-CELLES"/>
+<edge source="ZAVENTEM" target="298"/>
+<edge source="ZAVENTEM" target="299"/>
+<edge source="ZAVENTEM" target="DIEGEM"/>
+<edge source="MARCHIENNE-AU-PONT" target="308"/>
+<edge source="MARCHIENNE-AU-PONT" target="46"/>
+<edge source="MARCHIENNE-AU-PONT" target="139"/>
+<edge source="MARCHIENNE-AU-PONT" target="ROUX"/>
+<edge source="MARCHIENNE-AU-PONT" target="49"/>
+<edge source="MOLLEM" target="ASSE"/>
+<edge source="RUISBROEK" target="311"/>
+<edge source="LIER" target="112"/>
+<edge source="LIER" target="226"/>
+<edge source="LIER" target="13"/>
+<edge source="AYWAILLE" target="STOUMONT"/>
+<edge source="MONS" target="FRAMERIES"/>
+<edge source="MONS" target="GHLIN"/>
+<edge source="MONS" target="JEMAPPES"/>
+<edge source="ANTWERPEN-ZUID" target="149"/>
+<edge source="ANTWERPEN-ZUID" target="150"/>
+<edge source="ANTWERPEN-ZUID" target="386"/>
+<edge source="PONT-DE-SERAING" target="TILLEUR"/>
+<edge source="PONT-DE-SERAING" target="JEMEPPE-SUR-MEUSE"/>
+<edge source="NESSONVAUX" target="FRAIPONT"/>
+<edge source="NESSONVAUX" target="PEPINSTER"/>
+<edge source="ANTWERPEN-LUCHTBAL" target="273"/>
+<edge source="ANTWERPEN-LUCHTBAL" target="ANTWERPEN-NOORDERDOKKEN"/>
+<edge source="ANTWERPEN-LUCHTBAL" target="122"/>
+<edge source="ANTWERPEN-LUCHTBAL" target="ANTWERPEN-CENTRAAL"/>
+<edge source="HERMALLE-SOUS-HUY" target="HAUTE-FLONE"/>
+<edge source="BOUSSU" target="HAININ"/>
+<edge source="BOUSSU" target="SAINT-GHISLAIN"/>
+<edge source="BRUSSEL-CENTRAAL" target="BRUSSEL-CONGRES"/>
+<edge source="TUBIZE" target="LEMBEEK"/>
+<edge source="TUBIZE" target="HENNUYERES"/>
+<edge source="TUBIZE" target="97"/>
+<edge source="MARLOIE" target="ROCHEFORT-JEMELLE"/>
+<edge source="MARLOIE" target="MARCHE-EN-FAMENNE"/>
+<edge source="MARLOIE" target="AYE"/>
+<edge source="OVERPELT" target="LOMMEL"/>
+<edge source="OVERPELT" target="NEERPELT"/>
+<edge source="SOIGNIES" target="92"/>
+<edge source="SOIGNIES" target="93"/>
+<edge source="TERNAT" target="SINT-MARTENS-BODEGEM"/>
+<edge source="FEXHE-LE-HAUT-CLOCHER" target="MOMALLE"/>
+<edge source="FEXHE-LE-HAUT-CLOCHER" target="VOROUX"/>
+<edge source="BEERSEL" target="HUIZINGEN"/>
+<edge source="AARSELE" target="DEINZE"/>
+<edge source="AARSELE" target="TIELT"/>
+<edge source="COUILLET" target="371"/>
+<edge source="MORTSEL-LIERSESTEENWEG" target="HOVE"/>
+<edge source="MORTSEL-LIERSESTEENWEG" target="433"/>
+<edge source="LANDEN" target="320"/>
+<edge source="BEUZET" target="LONZEE"/>
+<edge source="BEUZET" target="SAINT-DENIS-BOVESSE"/>
+<edge source="TILFF" target="ANGLEUR"/>
+<edge source="PEPINSTER-CITE" target="PEPINSTER"/>
+<edge source="PEPINSTER-CITE" target="JUSLENVILLE"/>
+<edge source="LE CAMPINAIRE" target="129"/>
+<edge source="VOROUX" target="312"/>
+<edge source="SINT-JORIS-WEERT" target="PECROT"/>
+<edge source="SINT-JORIS-WEERT" target="OUD-HEVERLEE"/>
+<edge source="KIJKUIT" target="HEIDE"/>
+<edge source="KIJKUIT" target="KALMTHOUT"/>
+<edge source="LA LOUVIERE-GARE INDUSTRIELLE" target="83"/>
+<edge source="LA LOUVIERE-GARE INDUSTRIELLE" target="LA LOUVIERE-CENTRE"/>
+<edge source="FORCHIES" target="139"/>
+<edge source="FORCHIES" target="161"/>
+<edge source="LIBRAMONT" target="HATRIVAL"/>
+<edge source="WERVIK" target="MENEN"/>
+<edge source="WERVIK" target="KOMEN"/>
+<edge source="SY" target="HAMOIR"/>
+<edge source="MECHELEN" target="11"/>
+<edge source="MECHELEN" target="254"/>
+<edge source="MECHELEN" target="262"/>
+<edge source="MECHELEN" target="WEERDE"/>
+<edge source="MECHELEN" target="MUIZEN"/>
+<edge source="STOCKEM" target="322"/>
+<edge source="STOCKEM" target="368"/>
+<edge source="FLEMALLE-HAUTE" target="LEMAN"/>
+<edge source="FLEMALLE-HAUTE" target="86"/>
+<edge source="HERENT" target="304"/>
+<edge source="HERENT" target="305"/>
+<edge source="OOSTENDE" target="163"/>
+<edge source="GOUVY" target="VIELSALM"/>
+<edge source="EKE-NAZARETH" target="DE PINTE"/>
+<edge source="SCLAIGNEAUX" target="CHATEAU-DE-SEILLES"/>
+<edge source="LUTTRE" target="COURCELLES-MOTTE"/>
+<edge source="LUTTRE" target="PONT-A-CELLES"/>
+<edge source="LOMMEL" target="BALEN-WERKPLAATSEN"/>
+<edge source="ANTOING" target="279"/>
+<edge source="WELKENRAEDT" target="233"/>
+<edge source="WELKENRAEDT" target="DOLHAIN-GILEPPE"/>
+<edge source="WELKENRAEDT" target="EUPEN"/>
+<edge source="WELKENRAEDT" target="2"/>
+<edge source="MALDEREN" target="BUGGENHOUT"/>
+<edge source="MALDEREN" target="LONDERZEEL"/>
+<edge source="BRUSSEL-NOORD" target="58"/>
+<edge source="BRUSSEL-NOORD" target="BRUSSEL-CONGRES"/>
+<edge source="BRUSSEL-NOORD" target="SCHAARBEEK"/>
+<edge source="BRUSSEL-NOORD" target="40"/>
+<edge source="BRUSSEL-NOORD" target="171"/>
+<edge source="BEVERLO" target="LEOPOLDSBURG"/>
+<edge source="BEVERLO" target="151"/>
+<edge source="CEROUX-MOUSTY" target="COURT-SAINT-ETIENNE"/>
+<edge source="PIETON" target="CARNIERES"/>
+<edge source="PIETON" target="161"/>
+<edge source="KOKSIJDE" target="VEURNE"/>
+<edge source="KOKSIJDE" target="71"/>
+<edge source="WIJGMAAL" target="HAMBOS"/>
+<edge source="WIJGMAAL" target="120"/>
+<edge source="BLERET" target="REMICOURT"/>
+<edge source="BEVEREN(WAAS)" target="204"/>
+<edge source="SINT-MARTENS-BODEGEM" target="DILBEEK"/>
+<edge source="VERVIERS-PALAIS" target="341"/>
+<edge source="KORTRIJK" target="200"/>
+<edge source="KORTRIJK" target="328"/>
+<edge source="KORTRIJK" target="KORTRIJK"/>
+<edge source="KORTRIJK" target="201"/>
+<edge source="WOLFSTEE" target="99"/>
+<edge source="MAFFLE" target="MEVERGNIES-ATTRE"/>
+<edge source="MAFFLE" target="ATH"/>
+<edge source="OUD-HEVERLEE" target="HEVERLEE"/>
+<edge source="HERSTAL" target="LIEGE-SAINT-LAMBERT"/>
+<edge source="HERSTAL" target="MILMORT"/>
+<edge source="ASSESSE" target="FLOREE"/>
+<edge source="LIEDEKERKE" target="DENDERLEEUW"/>
+<edge source="LIEDEKERKE" target="302"/>
+<edge source="BEIGNEE" target="JAMIOULX"/>
+<edge source="BEIGNEE" target="HAM-SUR-HEURE"/>
+<edge source="SAINT-GHISLAIN" target="56"/>
+<edge source="SAINT-GHISLAIN" target="VILLE-POMMEROEUL"/>
+<edge source="WESPELAAR-TILDONK" target="119"/>
+<edge source="WESPELAAR-TILDONK" target="HAMBOS"/>
+<edge source="GEEL" target="OLEN"/>
+<edge source="BASSE-WAVRE" target="GASTUCHE"/>
+<edge source="BASSE-WAVRE" target="WAVRE"/>
+<edge source="CHENEE" target="ANGLEUR"/>
+<edge source="CHENEE" target="338"/>
+<edge source="CHENEE" target="CHAUDFONTAINE"/>
+<edge source="BORDET" target="HAREN"/>
+<edge source="BORDET" target="EVERE"/>
+<edge source="SCHAARBEEK-JOSAPHAT" target="MEISER"/>
+<edge source="SCHAARBEEK-JOSAPHAT" target="EVERE"/>
+<edge source="FRAIPONT" target="OLNE"/>
+<edge source="HARELBEKE" target="WAREGEM"/>
+<edge source="HARELBEKE" target="328"/>
+<edge source="MARCHE-LES-DAMES" target="72"/>
+<edge source="MARCHE-LES-DAMES" target="269"/>
+<edge source="PRY" target="BERZEE"/>
+<edge source="TILLY" target="VILLERS-LA-VILLE"/>
+<edge source="TILLY" target="LIGNY"/>
+<edge source="MAZY" target="JEMEPPE-FROIDMONT"/>
+<edge source="ZINGEM" target="EINE"/>
+<edge source="VELTEM" target="ERPS-KWERPS"/>
+<edge source="VELTEM" target="304"/>
+<edge source="COO" target="STOUMONT"/>
+<edge source="COO" target="TROIS-PONTS"/>
+<edge source="BLANMONT" target="CHASTRE"/>
+<edge source="GENT-DAMPOORT" target="GENTBRUGGE"/>
+<edge source="GENT-DAMPOORT" target="358"/>
+<edge source="GENT-DAMPOORT" target="60"/>
+<edge source="ZEEBRUGGE-DORP" target="110"/>
+<edge source="ASSE" target="ZELLIK"/>
+<edge source="HERSEAUX" target="MOESKROEN"/>
+<edge source="RONSE" target="OUDENAARDE"/>
+<edge source="DUINBERGEN" target="HEIST"/>
+<edge source="DUINBERGEN" target="KNOKKE"/>
+<edge source="ERBISOEUL" target="JURBISE"/>
+<edge source="ERBISOEUL" target="GHLIN"/>
+<edge source="AUVELAIS" target="FLEURUS"/>
+<edge source="AUVELAIS" target="JEMEPPE-SUR-SAMBRE-MARCHANDISE"/>
+<edge source="DIEST" target="162"/>
+<edge source="DIEST" target="ZICHEM"/>
+<edge source="TORHOUT" target="ZEDELGEM"/>
+<edge source="IDEGEM" target="ZANDBERGEN"/>
+<edge source="HABAY" target="MARBEHAN"/>
+<edge source="HABAY" target="322"/>
+<edge source="MORLANWELZ" target="CARNIERES"/>
+<edge source="MORLANWELZ" target="48"/>
+<edge source="JEMEPPE-SUR-SAMBRE-MARCHANDISE" target="JEMEPPE-SUR-SAMBRE"/>
+<edge source="THURN EN TAXIS" target="340"/>
+<edge source="THURN EN TAXIS" target="SIMONIS"/>
+<edge source="SAINT-DENIS-BOVESSE" target="21"/>
+<edge source="HAM-SUR-SAMBRE" target="101"/>
+<edge source="HAM-SUR-SAMBRE" target="JEMEPPE-SUR-SAMBRE"/>
+<edge source="HERGENRATH" target="2"/>
+<edge source="AUBANGE" target="209"/>
+<edge source="ETTERBEEK" target="WATERMAAL"/>
+<edge source="ETTERBEEK" target="MOUTERIJ"/>
+<edge source="ETTERBEEK" target="ARCADEN"/>
+<edge source="WELLE" target="DENDERLEEUW"/>
+<edge source="DUFFEL" target="SINT-KATELIJNE-WAVER"/>
+<edge source="DUFFEL" target="13"/>
+<edge source="JEMAPPES" target="QUAREGNON"/>
+<edge source="RIXENSART" target="GENVAL"/>
+<edge source="BOOM" target="399"/>
+<edge source="HENNUYERES" target="44"/>
+<edge source="JURBISE" target="217"/>
+<edge source="JURBISE" target="183"/>
+<edge source="GERAARDSBERGEN" target="ACREN"/>
+<edge source="GERAARDSBERGEN" target="295"/>
+<edge source="GERAARDSBERGEN" target="374"/>
+<edge source="LEBBEKE" target="SINT-GILLIS(DENDERMONDE)"/>
+<edge source="ANTWERPEN-NOORDERDOKKEN" target="122"/>
+<edge source="ANTWERPEN-NOORDERDOKKEN" target="105"/>
+<edge source="LIEGE-GUILLEMINS" target="SCLESSIN"/>
+<edge source="LIEGE-GUILLEMINS" target="109"/>
+<edge source="LIEGE-GUILLEMINS" target="187"/>
+<edge source="LIERDE" target="295"/>
+<edge source="GEMBLOUX" target="LONZEE"/>
+<edge source="LILLOIS" target="BRAINE-L'ALLEUD"/>
+<edge source="NEERPELT" target="HAMONT"/>
+<edge source="LA LOUVIERE-CENTRE" target="348"/>
+<edge source="LA LOUVIERE-CENTRE" target="239"/>
+<edge source="WEVELGEM" target="BISSEGEM"/>
+<edge source="WEVELGEM" target="MENEN"/>
+<edge source="DIEPENBEEK" target="145"/>
+<edge source="EICHEM" target="NINOVE"/>
+<edge source="BUDA" target="SCHAARBEEK"/>
+<edge source="BUDA" target="VILVOORDE"/>
+<edge source="ROUX" target="COURCELLES-MOTTE"/>
+<edge source="ROUX" target="308"/>
+<edge source="ACREN" target="LESSINES"/>
+<edge source="DEINZE" target="WAREGEM"/>
+<edge source="DEINZE" target="DEINZE-WIJKSPOREN"/>
+<edge source="DIEGEM" target="78"/>
+<edge source="DIEGEM" target="298"/>
+<edge source="BRESSOUX" target="221"/>
+<edge source="HEVERLEE" target="280"/>
+<edge source="NINOVE" target="383"/>
+<edge source="LIERS" target="MILMORT"/>
+<edge source="ANTWERPEN-BERCHEM" target="102"/>
+<edge source="ANTWERPEN-BERCHEM" target="177"/>
+<edge source="ANTWERPEN-BERCHEM" target="194"/>
+<edge source="ANTWERPEN-BERCHEM" target="188"/>
+<edge source="ANTWERPEN-BERCHEM" target="237"/>
+<edge source="ANTWERPEN-BERCHEM" target="208"/>
+<edge source="SINT-NIKLAAS" target="TEMSE"/>
+<edge source="MOMALLE" target="REMICOURT"/>
+<edge source="ZEDELGEM" target="419"/>
+<edge source="PHILIPPEVILLE" target="414"/>
+<edge source="MEISER" target="253"/>
+<edge source="IDDERGEM" target="DENDERLEEUW"/>
+<edge source="CINEY" target="318"/>
+<edge source="CINEY" target="LEIGNON"/>
+<edge source="KAPELLEN" target="SINT-MARIABURG"/>
+<edge source="KAPELLEN" target="421"/>
+<edge source="UKKEL-KALEVOET" target="UKKEL-STALLE"/>
+<edge source="UKKEL-KALEVOET" target="176"/>
+<edge source="ZOLDER-KRUISSPOREN" target="HEUSDEN"/>
+<edge source="WATERLOO" target="DE HOEK"/>
+<edge source="WATERLOO" target="BRAINE-L'ALLEUD"/>
+<edge source="LIGNY" target="FLEURUS"/>
+<edge source="HERZELE" target="TERHAGEN"/>
+<edge source="HERZELE" target="HILLEGEM"/>
+<edge source="BAASRODE-ZUID" target="BUGGENHOUT"/>
+<edge source="MORTSEL" target="281"/>
+<edge source="MORTSEL" target="208"/>
+<edge source="SCLESSIN" target="TILLEUR"/>
+<edge source="MOESKROEN" target="LAUWE"/>
+<edge source="KESSEL" target="113"/>
+<edge source="LEMAN" target="125"/>
+<edge source="HOVE" target="MORTSEL-OUDE GOD"/>
+<edge source="KORTENBERG" target="306"/>
+<edge source="KORTENBERG" target="ERPS-KWERPS"/>
+<edge source="BIERSET-AWANS" target="312"/>
+<edge source="BIERSET-AWANS" target="ANS"/>
+<edge source="SILLY" target="141"/>
+<edge source="HUIZINGEN" target="128"/>
+<edge source="ZWIJNDRECHT" target="150"/>
+<edge source="ZWIJNDRECHT" target="123"/>
+<edge source="HERENTALS" target="99"/>
+<edge source="HERENTALS" target="30"/>
+<edge source="WATERMAAL" target="BOSVOORDE"/>
+<edge source="QUIEVRAIN" target="THULIN"/>
+<edge source="TROOZ" target="OLNE"/>
+<edge source="TROOZ" target="CHAUDFONTAINE"/>
+<edge source="JEMEPPE-SUR-MEUSE" target="FLEMALLE-GRANDE"/>
+<edge source="THEUX" target="FRANCHIMONT"/>
+<edge source="THEUX" target="JUSLENVILLE"/>
+<edge source="LENS" target="217"/>
+<edge source="AARSCHOT" target="WEZEMAAL"/>
+<edge source="AARSCHOT" target="420"/>
+<edge source="FLEMALLE-GRANDE" target="125"/>
+<edge source="HAACHT" target="119"/>
+<edge source="SINT-KATELIJNE-WAVER" target="7"/>
+<edge source="SINT-KATELIJNE-WAVER" target="267"/>
+<edge source="MARIA-AALTER" target="AALTER"/>
+<edge source="REBAIX" target="PAPIGNIES"/>
+<edge source="REBAIX" target="ATH"/>
+<edge source="EPPEGEM" target="VILVOORDE"/>
+<edge source="EPPEGEM" target="408"/>
+<edge source="EPPEGEM" target="WEERDE"/>
+<edge source="POULSEUR" target="415"/>
+<edge source="BRACQUEGNIES" target="239"/>
+<edge source="MOUSTIER" target="FRANIERE"/>
+<edge source="MOUSTIER" target="101"/>
+<edge source="MUIZEN" target="261"/>
+<edge source="MUIZEN" target="262"/>
+<edge source="BRUSSEL-LUXEMBURG" target="MOUTERIJ"/>
+<edge source="LEMBEEK" target="97"/>
+<edge source="LEMBEEK" target="HALLE"/>
+<edge source="UKKEL-STALLE" target="VORST-OOST"/>
+<edge source="HAREN-ZUID" target="78"/>
+<edge source="HAREN-ZUID" target="SCHAARBEEK"/>
+<edge source="DOLHAIN-GILEPPE" target="341"/>
+<edge source="VILVOORDE" target="263"/>
+<edge source="MARBEHAN" target="47"/>
+<edge source="EREMBODEGEM" target="DENDERLEEUW"/>
+<edge source="EREMBODEGEM" target="369"/>
+<edge source="BOECHOUT" target="230"/>
+<edge source="BOECHOUT" target="226"/>
+<edge source="ANGLEUR" target="16"/>
+<edge source="GENVAL" target="LA HULPE"/>
+<edge source="WEERDE" target="11"/>
+<edge source="WEERDE" target="408"/>
+<edge source="MANAGE" target="83"/>
+<edge source="MANAGE" target="199"/>
+<edge source="MANAGE" target="GODARVILLE"/>
+<edge source="BRUSSEL-WEST" target="SIMONIS"/>
+<edge source="BRUSSEL-WEST" target="111"/>
+<edge source="KOMEN" target="IEPER"/>
+<edge source="BALEGEM-ZUID" target="BALEGEM-DORP"/>
+<edge source="MORTSEL-OUDE GOD" target="MORTSEL-DEURNESTEENWEG"/>
+<edge source="ANS" target="109"/>
+<edge source="ANS" target="355"/>
+<edge source="CALLENELLE" target="PERUWELZ"/>
+<edge source="ATH" target="316"/>
+<edge source="BOCKSTAEL" target="154"/>
+<edge source="BOCKSTAEL" target="155"/>
+<edge source="ANTWERPEN-CENTRAAL" target="188"/>
+<edge source="ANTWERPEN-CENTRAAL" target="346"/>
+<edge source="ANTWERPEN-CENTRAAL" target="385"/>
+<edge source="JEMEPPE-SUR-SAMBRE" target="JEMEPPE-FROIDMONT"/>
+<edge source="VORST-ZUID" target="32"/>
+<edge source="VORST-ZUID" target="266"/>
+<edge source="VORST-ZUID" target="310"/>
+<edge source="VORST-ZUID" target="311"/>
+<edge source="INGELMUNSTER" target="450"/>
+<edge source="INGELMUNSTER" target="118"/>
+<edge source="JEMEPPE-FROIDMONT" target="79"/>
+<edge source="HOFSTADE" target="408"/>
+<edge source="HOFSTADE" target="365"/>
+<edge source="VIELSALM" target="TROIS-PONTS"/>
+<edge source="ERQUELINNES-VILLAGE" target="ERQUELINNES"/>
+<edge source="VORST-OOST" target="182"/>
+<edge source="HANSBEKE" target="LANDEGEM"/>
+<edge source="MARCHE-LEZ-ECAUSSINNES" target="198"/>
+<edge source="VICHTE" target="ANZEGEM"/>
+<edge source="VICHTE" target="328"/>
+<edge source="LIMAL" target="252"/>
+<edge source="LA HULPE" target="236"/>
+<edge source="GENK" target="245"/>
+<edge source="SINT-MARIABURG" target="373"/>
+<edge source="BEAURAING" target="107"/>
+<edge source="HEIST" target="54"/>
+<edge source="BRAINE-LE-COMTE" target="36"/>
+<edge source="BRAINE-LE-COMTE" target="44"/>
+<edge source="BRAINE-LE-COMTE" target="93"/>
+<edge source="GENTBRUGGE" target="70"/>
+<edge source="FLAWINNE" target="FLOREFFE"/>
+<edge source="FLAWINNE" target="292"/>
+<edge source="HEIDE" target="421"/>
+<edge source="MERODE" target="253"/>
+<edge source="DINANT" target="434"/>
+<edge source="OUDENAARDE" target="87"/>
+<edge source="OUDENAARDE" target="ANZEGEM"/>
+<edge source="HALLE" target="143"/>
+<edge source="HALLE" target="128"/>
+<edge source="HALLE" target="334"/>
+<edge source="LA LOUVIERE-SUD" target="348"/>
+<edge source="LA LOUVIERE-SUD" target="48"/>
+<edge source="SPA-GERONSTERE" target="SPA"/>
+<edge source="QUAREGNON" target="56"/>
+<edge source="THULIN" target="HAININ"/>
+<edge source="LOUVAIN-LA-NEUVE" target="248"/>
+<edge source="AALST" target="LEDE"/>
+<edge source="AALST" target="369"/>
+<edge source="AALST" target="AALST-KERREBROEK"/>
+<edge source="FLOREFFE" target="235"/>
+<edge source="BRUGGE" target="31"/>
+<edge source="BRUGGE" target="BRUGGE"/>
+<edge source="BRUGGE" target="349"/>
+<edge source="BRUGGE" target="335"/>
+<edge source="FLOREE" target="NATOYE"/>
+<edge source="LAUWE" target="317"/>
+<edge source="DE PINTE" target="DEINZE-WIJKSPOREN"/>
+<edge source="SCHELLEBELLE" target="SCHELLEBELLE"/>
+<edge source="WEZEMAAL" target="223"/>
+<edge source="KAPELLE-OP-DEN-BOS" target="LONDERZEEL"/>
+<edge source="KAPELLE-OP-DEN-BOS" target="254"/>
+<edge source="HOURAING" target="137"/>
+<edge source="HOURAING" target="PAPIGNIES"/>
+<edge source="ZEEBRUGGE-VORMING" target="247"/>
+<edge source="ZEEBRUGGE-VORMING" target="110"/>
+<edge source="MORTSEL-DEURNESTEENWEG" target="208"/>
+<edge source="ATHUS" target="370"/>
+<edge source="ATHUS" target="209"/>
+<edge source="HAUTE-FLONE" target="AMAY"/>
+<edge source="FRANIERE" target="235"/>
+<edge source="EINE" target="87"/>
+<edge source="VERTRIJK" target="186"/>
+<edge source="KINKEMPOIS-FORMATION" target="384"/>
+<edge source="SPA" target="FRANCHIMONT"/>
+<edge source="MELSELE" target="124"/>
+<edge source="MELSELE" target="204"/>
+<edge source="HATRIVAL" target="HATRIVAL"/>
+<edge source="JAMIOULX" target="45"/>
+<edge source="LESSINES" target="137"/>
+<edge source="BRUSSELS AIRPORT - ZAVENTEM" target="15"/>
+<edge source="BRUSSELS AIRPORT - ZAVENTEM" target="391"/>
+<edge source="LANDEGEM" target="LANDEGEM"/>
+<edge source="SCHAARBEEK" target="40"/>
+<edge source="SCHAARBEEK" target="58"/>
+<edge source="SCHAARBEEK" target="SCHAARBEEK"/>
+<edge source="SCHAARBEEK" target="171"/>
+<edge source="SCHAARBEEK" target="181"/>
+<edge source="SCHAARBEEK" target="309"/>
+<edge source="DE PANNE" target="71"/>
+<edge source="NEUFVILLES" target="92"/>
+<edge source="STATTE" target="HUY"/>
+<edge source="KIEWIT" target="259"/>
+<edge source="MERELBEKE" target="329"/>
+<edge source="MERELBEKE" target="69"/>
+<edge source="MERELBEKE" target="315"/>
+<edge source="SCHULEN" target="162"/>
+<edge source="SCHULEN" target="257"/>
+<edge source="VIVILLE" target="368"/>
+<edge source="BUIZINGEN" target="128"/>
+<edge source="OLEN" target="30"/>
+<edge source="HAREN" target="103"/>
+<edge source="VIRTON" target="12"/>
+<edge source="FAMILLEUREUX" target="198"/>
+<edge source="FAMILLEUREUX" target="199"/>
+<edge source="DENDERLEEUW" target="361"/>
+<edge source="NATOYE" target="318"/>
+<edge source="FLEMALLE-ANNEXE" target="86"/>
+<edge source="FLEMALLE-ANNEXE" target="91"/>
+<edge source="BISSEGEM" target="118"/>
+<edge source="2" target="338"/>
+<edge source="2" target="2"/>
+<edge source="5" target="209"/>
+<edge source="5" target="5"/>
+<edge source="7" target="185"/>
+<edge source="7" target="267"/>
+<edge source="8" target="9"/>
+<edge source="8" target="102"/>
+<edge source="8" target="385"/>
+<edge source="9" target="273"/>
+<edge source="10" target="11"/>
+<edge source="10" target="238"/>
+<edge source="10" target="391"/>
+<edge source="15" target="299"/>
+<edge source="15" target="366"/>
+<edge source="16" target="100"/>
+<edge source="16" target="187"/>
+<edge source="16" target="222"/>
+<edge source="31" target="335"/>
+<edge source="31" target="419"/>
+<edge source="32" target="142"/>
+<edge source="32" target="324"/>
+<edge source="32" target="111"/>
+<edge source="36" target="93"/>
+<edge source="39" target="170"/>
+<edge source="39" target="169"/>
+<edge source="40" target="171"/>
+<edge source="45" target="46"/>
+<edge source="45" target="49"/>
+<edge source="45" target="333"/>
+<edge source="46" target="49"/>
+<edge source="48" target="228"/>
+<edge source="49" target="418"/>
+<edge source="54" target="55"/>
+<edge source="54" target="321"/>
+<edge source="54" target="296"/>
+<edge source="55" target="296"/>
+<edge source="58" target="58"/>
+<edge source="58" target="171"/>
+<edge source="60" target="61"/>
+<edge source="64" target="207"/>
+<edge source="64" target="85"/>
+<edge source="69" target="70"/>
+<edge source="69" target="159"/>
+<edge source="70" target="159"/>
+<edge source="78" target="103"/>
+<edge source="78" target="78"/>
+<edge source="78" target="181"/>
+<edge source="79" target="101"/>
+<edge source="83" target="199"/>
+<edge source="84" target="85"/>
+<edge source="84" target="196"/>
+<edge source="85" target="245"/>
+<edge source="86" target="125"/>
+<edge source="100" target="187"/>
+<edge source="100" target="327"/>
+<edge source="100" target="222"/>
+<edge source="102" target="188"/>
+<edge source="103" target="181"/>
+<edge source="107" target="108"/>
+<edge source="111" target="182"/>
+<edge source="112" target="113"/>
+<edge source="112" target="442"/>
+<edge source="116" target="117"/>
+<edge source="117" target="321"/>
+<edge source="118" target="201"/>
+<edge source="119" target="119"/>
+<edge source="120" target="223"/>
+<edge source="120" target="178"/>
+<edge source="122" target="122"/>
+<edge source="123" target="124"/>
+<edge source="128" target="311"/>
+<edge source="141" target="174"/>
+<edge source="141" target="316"/>
+<edge source="142" target="302"/>
+<edge source="144" target="145"/>
+<edge source="145" target="207"/>
+<edge source="146" target="147"/>
+<edge source="146" target="225"/>
+<edge source="147" target="169"/>
+<edge source="149" target="177"/>
+<edge source="149" target="149"/>
+<edge source="154" target="171"/>
+<edge source="154" target="340"/>
+<edge source="155" target="340"/>
+<edge source="157" target="158"/>
+<edge source="157" target="420"/>
+<edge source="157" target="407"/>
+<edge source="158" target="420"/>
+<edge source="163" target="300"/>
+<edge source="163" target="363"/>
+<edge source="169" target="170"/>
+<edge source="170" target="376"/>
+<edge source="174" target="175"/>
+<edge source="174" target="174"/>
+<edge source="174" target="334"/>
+<edge source="175" target="360"/>
+<edge source="175" target="316"/>
+<edge source="176" target="430"/>
+<edge source="176" target="176"/>
+<edge source="178" target="223"/>
+<edge source="178" target="305"/>
+<edge source="181" target="263"/>
+<edge source="181" target="240"/>
+<edge source="183" target="184"/>
+<edge source="184" target="217"/>
+<edge source="185" target="267"/>
+<edge source="186" target="297"/>
+<edge source="187" target="222"/>
+<edge source="188" target="346"/>
+<edge source="188" target="385"/>
+<edge source="194" target="208"/>
+<edge source="194" target="237"/>
+<edge source="196" target="245"/>
+<edge source="200" target="201"/>
+<edge source="200" target="317"/>
+<edge source="202" target="203"/>
+<edge source="202" target="326"/>
+<edge source="203" target="233"/>
+<edge source="221" target="222"/>
+<edge source="223" target="305"/>
+<edge source="224" target="361"/>
+<edge source="224" target="265"/>
+<edge source="229" target="230"/>
+<edge source="229" target="433"/>
+<edge source="229" target="237"/>
+<edge source="230" target="281"/>
+<edge source="231" target="279"/>
+<edge source="231" target="360"/>
+<edge source="238" target="240"/>
+<edge source="238" target="391"/>
+<edge source="239" target="348"/>
+<edge source="245" target="260"/>
+<edge source="246" target="247"/>
+<edge source="249" target="365"/>
+<edge source="249" target="261"/>
+<edge source="254" target="255"/>
+<edge source="256" target="257"/>
+<edge source="256" target="272"/>
+<edge source="259" target="272"/>
+<edge source="259" target="423"/>
+<edge source="261" target="365"/>
+<edge source="263" target="309"/>
+<edge source="266" target="311"/>
+<edge source="269" target="270"/>
+<edge source="271" target="372"/>
+<edge source="279" target="279"/>
+<edge source="280" target="398"/>
+<edge source="281" target="433"/>
+<edge source="291" target="292"/>
+<edge source="291" target="350"/>
+<edge source="297" target="398"/>
+<edge source="299" target="366"/>
+<edge source="300" target="301"/>
+<edge source="300" target="349"/>
+<edge source="301" target="363"/>
+<edge source="302" target="361"/>
+<edge source="302" target="302"/>
+<edge source="307" target="355"/>
+<edge source="310" target="324"/>
+<edge source="311" target="311"/>
+<edge source="312" target="384"/>
+<edge source="315" target="329"/>
+<edge source="316" target="316"/>
+<edge source="326" target="376"/>
+<edge source="328" target="328"/>
+<edge source="344" target="358"/>
+<edge source="346" target="346"/>
+<edge source="350" target="359"/>
+<edge source="381" target="386"/>
+<edge source="383" target="383"/>
+</graph></graphml>
